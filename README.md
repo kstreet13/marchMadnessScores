@@ -1,5 +1,7 @@
 # marchMadnessScores
 
+**Main data file: `mensResults.csv`**
+
 If you're like me and you occasionally find yourself wishing you had a nicely formatted database of every (men's) March Madness game, here you go! I think I managed to find every game since the field expanded to 64 teams in 1985, up through 2024 (because the NCAA hasn't updated their website to include complete 2025 data as of the time I'm writing this).
 
 Since brackets are a highly-structured type of data, it's not easy to find traditional "tidy" datasets for the tournament, even though all the information is definitely out there. And since the tournament poses a famously challenging prediction problem, I imagine I'm not the only person interested in this data for stats-y reasons.
