@@ -1,0 +1,2517 @@
+seed1,team1,score1,seed2,team2,score2,round,year
+1,Georgetown,68,16,Lehigh,43,64,1985
+8,Temple,60,9,Virginia Tech,57,64,1985
+5,SMU,85,12,Old Dominion,68,64,1985
+4,Loyola Chicago,59,13,Iona,58,64,1985
+6,Georgia,67,11,Wichita State,59,64,1985
+3,Illinois,76,14,Northeastern,57,64,1985
+7,Syracuse,70,10,DePaul,65,64,1985
+2,Georgia Tech,65,15,Mercer,58,64,1985
+1,Oklahoma,96,16,North Carolina A&T,83,64,1985
+9,Illinois State,58,8,Southern California,55,64,1985
+5,Louisiana Tech,78,12,Pittsburgh,54,64,1985
+4,Ohio State,75,13,Iowa State,64,64,1985
+11,Boston College,55,6,Texas Tech,53,64,1985
+3,Duke,75,14,Pepperdine,62,64,1985
+7,UAB,70,10,Michigan State,68,64,1985
+2,Memphis State,67,15,Penn,55,64,1985
+1,Michigan,59,16,Fairleigh Dickinson,55,64,1985
+8,Villanova,51,9,Dayton,49,64,1985
+5,Maryland,69,12,Miami (Ohio),68,64,1985
+13,Navy,78,4,LSU,55,64,1985
+11,Auburn,59,6,Purdue,58,64,1985
+3,Kansas,49,14,Ohio,38,64,1985
+7,Notre Dame,79,10,Oregon State,70,64,1985
+2,North Carolina,76,15,Middle Tennessee State,57,64,1985
+1,St. John's,83,16,Southern,59,64,1985
+9,Arkansas,63,8,Iowa,54,64,1985
+12,Kentucky,66,5,Washington,58,64,1985
+4,UNLV,85,13,San Diego State,80,64,1985
+11,UTEP,79,6,Tulsa,75,64,1985
+3,NC State,65,14,Nevada,56,64,1985
+7,Alabama,50,10,Arizona,41,64,1985
+2,VCU,81,15,Marshall,65,64,1985
+1,Georgetown,63,8,Temple,46,32,1985
+4,Loyola Chicago,70,5,SMU,57,32,1985
+3,Illinois,74,6,Georgia,58,32,1985
+2,Georgia Tech,70,7,Syracuse,53,32,1985
+1,Oklahoma,75,9,Illinois State,69,32,1985
+5,Louisiana Tech,79,4,Ohio State,67,32,1985
+11,Boston College,74,3,Duke,73,32,1985
+2,Memphis State,67,7,UAB,66,32,1985
+8,Villanova,59,1,Michigan,55,32,1985
+5,Maryland,64,13,Navy,59,32,1985
+11,Auburn,66,3,Kansas,64,32,1985
+2,North Carolina,60,7,Notre Dame,58,32,1985
+1,St. John's,68,9,Arkansas,65,32,1985
+12,Kentucky,64,4,UNLV,61,32,1985
+3,NC State,86,11,UTEP,73,32,1985
+7,Alabama,63,2,VCU,59,32,1985
+1,Georgetown,65,4,Loyola Chicago,53,16,1985
+2,Georgia Tech,61,3,Illinois,53,16,1985
+1,Oklahoma,86,5,Louisiana Tech,84,16,1985
+2,Memphis State,59,11,Boston College,57,16,1985
+8,Villanova,46,5,Maryland,43,16,1985
+2,North Carolina,62,11,Auburn,56,16,1985
+1,St. John's,86,12,Kentucky,70,16,1985
+3,NC State,61,7,Alabama,55,16,1985
+1,Georgetown,60,2,Georgia Tech,54,8,1985
+2,Memphis State,63,1,Oklahoma,61,8,1985
+8,Villanova,56,2,North Carolina,44,8,1985
+1,St. John's,69,3,NC State,60,8,1985
+1,Georgetown,77,1,St. John's,59,4,1985
+8,Villanova,52,2,Memphis State,45,4,1985
+8,Villanova,66,1,Georgetown,64,2,1985
+1,Duke,85,16,Mississippi Valley State,78,64,1986
+8,Old Dominion,72,9,West Virginia,64,64,1986
+12,DePaul,72,5,Virginia,68,64,1986
+4,Oklahoma,80,13,Northeastern,74,64,1986
+6,Saint Joseph's,60,11,Richmond,59,64,1986
+14,Cleveland State,83,3,Indiana,79,64,1986
+7,Navy,87,10,Tulsa,68,64,1986
+2,Syracuse,101,15,Brown,52,64,1986
+1,Kansas,71,16,North Carolina A&T,46,64,1986
+9,Temple,61,8,Jacksonville,50,64,1986
+5,Michigan State,72,12,Washington,70,64,1986
+4,Georgetown,70,13,Texas Tech,64,64,1986
+6,N.C. State,66,11,Iowa,64,64,1986
+14,Arkansas-Little Rock,90,3,Notre Dame,83,64,1986
+7,Iowa State,81,10,Miami (OH),79,64,1986
+2,Michigan,70,15,Akron,64,64,1986
+1,Kentucky,75,16,Davidson,55,64,1986
+8,Western Kentucky,67,9,Nebraska,59,64,1986
+5,Alabama,97,12,Xavier,80,64,1986
+4,Illinois,75,13,Fairfield,51,64,1986
+11,LSU,94,6,Purdue,87,64,1986
+3,Memphis State,95,14,Ball State,63,64,1986
+10,Villanova,71,7,Virginia Tech,62,64,1986
+2,Georgia Tech,68,15,Marist,53,64,1986
+1,St. John's,83,16,Montana State,74,64,1986
+8,Auburn,73,9,Arizona,63,64,1986
+5,Maryland,69,12,Pepperdine,64,64,1986
+4,UNLV,74,13,Northeast Louisiana,51,64,1986
+6,UAB,66,11,Missouri,64,64,1986
+3,North Carolina,84,14,Utah,72,64,1986
+7,Bradley,83,10,UTEP,65,64,1986
+2,Louisville,93,15,Drexel,73,64,1986
+1,Duke,89,8,Old Dominion,61,32,1986
+12,DePaul,74,4,Oklahoma,69,32,1986
+14,Cleveland State,75,6,Saint Joseph's,69,32,1986
+7,Navy,97,2,Syracuse,85,32,1986
+1,Kansas,65,9,Temple,43,32,1986
+5,Michigan State,80,4,Georgetown,68,32,1986
+6,N.C. State,80,14,Arkansas-Little Rock,66,32,1986
+7,Iowa State,72,2,Michigan,69,32,1986
+1,Kentucky,71,8,Western Kentucky,64,32,1986
+5,Alabama,58,4,Illinois,56,32,1986
+11,LSU,83,3,Memphis State,81,32,1986
+2,Georgia Tech,66,10,Villanova,61,32,1986
+8,Auburn,81,1,St. John's,65,32,1986
+4,UNLV,70,5,Maryland,64,32,1986
+3,North Carolina,77,6,UAB,59,32,1986
+2,Louisville,82,7,Bradley,68,32,1986
+1,Duke,74,12,DePaul,67,16,1986
+7,Navy,71,14,Cleveland State,70,16,1986
+1,Kansas,96,5,Michigan State,86,16,1986
+6,N.C. State,70,7,Iowa State,66,16,1986
+1,Kentucky,68,5,Alabama,63,16,1986
+11,LSU,70,2,Georgia Tech,64,16,1986
+8,Auburn,70,4,UNLV,63,16,1986
+2,Louisville,94,3,North Carolina,79,16,1986
+1,Duke,71,7,Navy,50,8,1986
+1,Kansas,75,6,N.C. State,67,8,1986
+11,LSU,59,1,Kentucky,57,8,1986
+2,Louisville,84,8,Auburn,76,8,1986
+1,Duke,71,1,Kansas,67,4,1986
+2,Louisville,88,11,LSU,77,4,1986
+2,Louisville,72,1,Duke,69,2,1986
+1,North Carolina,113,16,Penn,82,64,1987
+2,Syracuse,79,15,Georgia Southern,73,64,1987
+3,Purdue,104,14,Northeastern,95,64,1987
+4,TCU,76,13,Marshall,60,64,1987
+5,Notre Dame,84,12,Middle Tennessee State,71,64,1987
+6,Florida,82,11,NC State,70,64,1987
+10,Western Kentucky,64,7,West Virginia,62,64,1987
+9,Michigan,97,8,Navy,82,64,1987
+1,UNLV,95,16,Idaho State,70,64,1987
+2,Iowa,99,15,Santa Clara,76,64,1987
+3,Pittsburgh,93,14,Marist,68,64,1987
+4,UCLA,92,13,Central Michigan,73,64,1987
+12,Wyoming,64,5,Virginia,60,64,1987
+6,Oklahoma,74,11,Tulsa,69,64,1987
+7,UTEP,98,10,Arizona,91,64,1987
+9,Kansas State,82,8,Georgia,79,64,1987
+1,Georgetown,75,16,Bucknell,53,64,1987
+2,Alabama,88,15,North Carolina A&T,71,64,1987
+14,Austin Peay,68,3,Illinois,67,64,1987
+13,Southwest Missouri State,65,4,Clemson,60,64,1987
+5,Kansas,66,12,Houston,55,64,1987
+6,Providence,90,11,UAB,68,64,1987
+7,New Orleans,83,10,BYU,79,64,1987
+9,Ohio State,91,8,Kentucky,77,64,1987
+1,Indiana,92,16,Fairfield,58,64,1987
+2,Temple,75,15,Southern,56,64,1987
+3,DePaul,76,14,Louisiana Tech,62,64,1987
+13,Xavier,70,4,Missouri,69,64,1987
+5,Duke,58,12,Texas A&M,51,64,1987
+6,St. John's,57,11,Wichita State,55,64,1987
+10,LSU,85,7,Georgia Tech,79,64,1987
+8,Auburn,62,9,San Diego,61,64,1987
+1,North Carolina,109,9,Michigan,97,32,1987
+2,Syracuse,104,10,Western Kentucky,86,32,1987
+6,Florida,85,3,Purdue,66,32,1987
+5,Notre Dame,58,4,TCU,57,32,1987
+1,UNLV,80,9,Kansas State,61,32,1987
+2,Iowa,84,7,UTEP,82,32,1987
+6,Oklahoma,96,3,Pittsburgh,93,32,1987
+12,Wyoming,78,4,UCLA,68,32,1987
+1,Georgetown,82,9,Ohio State,79,32,1987
+2,Alabama,101,7,New Orleans,76,32,1987
+6,Providence,90,14,Austin Peay,87,32,1987
+5,Kansas,67,13,Southwest Missouri State,63,32,1987
+1,Indiana,107,8,Auburn,90,32,1987
+10,LSU,72,2,Temple,62,32,1987
+3,DePaul,83,6,St. John's,75,32,1987
+5,Duke,65,13,Xavier,60,32,1987
+1,North Carolina,74,5,Notre Dame,68,16,1987
+2,Syracuse,87,6,Florida,81,16,1987
+1,UNLV,92,12,Wyoming,78,16,1987
+2,Iowa,93,6,Oklahoma,91,16,1987
+1,Georgetown,70,5,Kansas,57,16,1987
+6,Providence,103,2,Alabama,82,16,1987
+1,Indiana,88,5,Duke,82,16,1987
+10,LSU,63,3,DePaul,58,16,1987
+2,Syracuse,79,1,North Carolina,75,8,1987
+1,UNLV,84,2,Iowa,81,8,1987
+6,Providence,88,1,Georgetown,73,8,1987
+1,Indiana,77,10,LSU,76,8,1987
+1,Indiana,97,1,UNLV,93,4,1987
+2,Syracuse,77,6,Providence,63,4,1987
+1,Indiana,74,2,Syracuse,73,2,1987
+1,Temple,87,16,Lehigh,73,64,1988
+2,Duke,85,15,Boston University,69,64,1988
+3,Syracuse,69,14,North Carolina A&T,55,64,1988
+13,Richmond,72,4,Indiana,69,64,1988
+5,Georgia Tech,90,12,Iowa State,78,64,1988
+11,Rhode Island,87,6,Missouri,80,64,1988
+7,SMU,83,10,Notre Dame,75,64,1988
+8,Georgetown,66,9,LSU,63,64,1988
+1,Arizona,90,16,Cornell,50,64,1988
+2,North Carolina,83,15,North Texas,65,64,1988
+3,Michigan,63,14,Boise State,58,64,1988
+4,UNLV,54,13,Southwest Missouri State,50,64,1988
+5,Iowa,102,12,Florida State,98,64,1988
+6,Florida,62,11,St. John's,59,64,1988
+10,Loyola Marymount,119,7,Wyoming,115,64,1988
+8,Seton Hall,80,9,UTEP,64,64,1988
+1,Oklahoma,94,16,Chattanooga,66,64,1988
+2,Kentucky,99,15,Southern,84,64,1988
+3,Illinois,81,14,UTSA,72,64,1988
+4,BYU,98,13,Charlotte,92,64,1988
+5,Louisville,70,12,Oregon State,61,64,1988
+6,Villanova,82,11,Arkansas,74,64,1988
+7,Maryland,92,10,UC Santa Barbara,82,64,1988
+8,Auburn,90,9,Bradley,86,64,1988
+1,Purdue,94,16,Fairleigh Dickinson,79,64,1988
+2,Pittsburgh,108,15,Eastern Michigan,90,64,1988
+14,Murray State,78,3,NC State,75,64,1988
+4,Kansas State,66,13,La Salle,53,64,1988
+5,DePaul,83,12,Wichita State,62,64,1988
+6,Kansas,85,11,Xavier,72,64,1988
+7,Vanderbilt,80,10,Utah State,77,64,1988
+9,Memphis,75,8,Baylor,60,64,1988
+1,Temple,74,8,Georgetown,53,32,1988
+2,Duke,94,7,SMU,79,32,1988
+11,Rhode Island,97,3,Syracuse,94,32,1988
+13,Richmond,59,5,Georgia Tech,55,32,1988
+1,Arizona,84,8,Seton Hall,55,32,1988
+2,North Carolina,123,10,Loyola Marymount,97,32,1988
+3,Michigan,108,6,Florida,85,32,1988
+5,Iowa,104,4,UNLV,86,32,1988
+1,Oklahoma,107,8,Auburn,87,32,1988
+2,Kentucky,90,7,Maryland,81,32,1988
+6,Villanova,66,3,Illinois,63,32,1988
+5,Louisville,97,4,BYU,76,32,1988
+1,Purdue,100,9,Memphis,73,32,1988
+7,Vanderbilt,80,2,Pittsburgh,74,32,1988
+6,Kansas,61,14,Murray State,58,32,1988
+4,Kansas State,66,5,DePaul,58,32,1988
+1,Temple,69,13,Richmond,47,16,1988
+2,Duke,73,11,Rhode Island,72,16,1988
+1,Arizona,99,5,Iowa,79,16,1988
+2,North Carolina,78,3,Michigan,69,16,1988
+1,Oklahoma,108,5,Louisville,98,16,1988
+6,Villanova,80,2,Kentucky,74,16,1988
+4,Kansas State,73,1,Purdue,70,16,1988
+6,Kansas,77,7,Vanderbilt,64,16,1988
+2,Duke,63,1,Temple,53,8,1988
+1,Arizona,70,2,North Carolina,52,8,1988
+1,Oklahoma,78,6,Villanova,59,8,1988
+6,Kansas,71,4,Kansas State,58,8,1988
+1,Oklahoma,86,1,Arizona,78,4,1988
+6,Kansas,66,2,Duke,59,4,1988
+6,Kansas,83,1,Oklahoma,79,2,1988
+1,Georgetown,50,16,Princeton,49,64,1989
+2,Duke,90,15,South Carolina State,69,64,1989
+14,Siena,80,3,Stanford,78,64,1989
+4,Iowa,87,13,Rutgers,73,64,1989
+5,NC State,81,12,South Carolina,66,64,1989
+11,Minnesota,86,6,Kansas State,75,64,1989
+7,West Virginia,84,10,Tennessee,68,64,1989
+9,Notre Dame,81,8,Vanderbilt,65,64,1989
+1,Arizona,94,16,Robert Morris,60,64,1989
+2,Indiana,99,15,George Mason,85,64,1989
+3,Seton Hall,60,14,Missouri State,51,64,1989
+4,UNLV,68,13,Idaho,56,64,1989
+12,DePaul,66,5,Memphis,63,64,1989
+11,Evansville,94,6,Oregon State,90,64,1989
+7,UTEP,85,10,LSU,74,64,1989
+9,Clemson,83,8,Saint Mary's,70,64,1989
+1,Oklahoma,72,16,East Tennessee State,71,64,1989
+2,North Carolina,93,15,Southern,79,64,1989
+3,Michigan,92,14,Xavier,87,64,1989
+13,Middle Tennessee State,97,4,Florida State,83,64,1989
+5,Virginia,100,12,Providence,97,64,1989
+11,South Alabama,86,6,Alabama,84,64,1989
+7,UCLA,84,10,Iowa State,74,64,1989
+9,Louisiana Tech,83,8,La Salle,74,64,1989
+1,Illinois,77,16,McNeese State,71,64,1989
+2,Syracuse,104,15,Bucknell,81,64,1989
+3,Missouri,85,14,Creighton,69,64,1989
+4,Louisville,76,13,Arkansas-Little Rock,71,64,1989
+5,Arkansas,120,12,Loyola Marymount,101,64,1989
+11,Texas,76,6,Georgia Tech,70,64,1989
+10,Colorado State,68,7,Florida,46,64,1989
+9,Ball State,68,8,Pittsburgh,64,64,1989
+1,Georgetown,81,9,Notre Dame,74,32,1989
+2,Duke,70,7,West Virginia,63,32,1989
+11,Minnesota,80,14,Siena,67,32,1989
+5,NC State,102,4,Iowa,96,32,1989
+1,Arizona,94,9,Clemson,68,32,1989
+2,Indiana,92,7,UTEP,69,32,1989
+3,Seton Hall,87,11,Evansville,73,32,1989
+4,UNLV,85,12,DePaul,70,32,1989
+1,Oklahoma,124,9,Louisiana Tech,81,32,1989
+2,North Carolina,88,7,UCLA,81,32,1989
+3,Michigan,91,11,South Alabama,82,32,1989
+5,Virginia,104,13,Middle Tennessee State,88,32,1989
+1,Illinois,72,9,Ball State,60,32,1989
+2,Syracuse,65,10,Colorado State,50,32,1989
+3,Missouri,108,11,Texas,89,32,1989
+4,Louisville,93,5,Arkansas,84,32,1989
+1,Georgetown,69,5,NC State,61,16,1989
+2,Duke,87,11,Minnesota,70,16,1989
+4,UNLV,68,1,Arizona,67,16,1989
+3,Seton Hall,78,2,Indiana,65,16,1989
+5,Virginia,86,1,Oklahoma,80,16,1989
+3,Michigan,92,2,North Carolina,87,16,1989
+1,Illinois,83,4,Louisville,69,16,1989
+2,Syracuse,83,3,Missouri,80,16,1989
+2,Duke,85,1,Georgetown,77,8,1989
+3,Seton Hall,84,4,UNLV,61,8,1989
+3,Michigan,102,5,Virginia,65,8,1989
+1,Illinois,89,2,Syracuse,86,8,1989
+3,Michigan,83,1,Illinois,81,4,1989
+3,Seton Hall,95,2,Duke,78,4,1989
+3,Michigan,80,3,Seton Hall,79,2,1989
+1,UConn,76,16,Boston University,52,64,1990
+9,California,65,8,Indiana,63,64,1990
+5,Clemson,49,12,BYU,47,64,1990
+4,La Salle,79,13,Southern Miss,63,64,1990
+6,St. John's,81,11,Temple,65,64,1990
+3,Duke,81,14,Richmond,46,64,1990
+7,UCLA,68,10,UAB,56,64,1990
+2,Kansas,79,15,Robert Morris,71,64,1990
+1,Oklahoma,77,16,Towson State,68,64,1990
+8,North Carolina,83,9,Southwest Missouri State,70,64,1990
+12,Dayton,88,5,Illinois,86,64,1990
+4,Arkansas,68,13,Princeton,64,64,1990
+6,Xavier,87,11,Kansas State,79,64,1990
+3,Georgetown,70,14,Texas Southern,52,64,1990
+10,Texas,100,7,Georgia,88,64,1990
+2,Purdue,75,15,Northeast Louisiana,63,64,1990
+1,Michigan State,75,16,Murray State,71,64,1990
+9,UC Santa Barbara,70,8,Houston,66,64,1990
+5,LSU,70,12,Villanova,63,64,1990
+4,Georgia Tech,99,13,East Tennessee State,83,64,1990
+6,Minnesota,64,11,UTEP,61,64,1990
+14,Northern Iowa,74,3,Missouri,71,64,1990
+7,Virginia,75,10,Notre Dame,67,64,1990
+2,Syracuse,70,15,Coppin State,48,64,1990
+1,UNLV,102,16,Arkansas-Little Rock,72,64,1990
+8,Ohio State,84,9,Providence,83,64,1990
+12,Ball State,54,5,Oregon State,53,64,1990
+4,Louisville,78,13,Idaho,59,64,1990
+11,Loyola Marymount,111,6,New Mexico State,92,64,1990
+3,Michigan,76,14,Illinois State,70,64,1990
+7,Alabama,71,10,Colorado State,54,64,1990
+2,Arizona,79,15,South Florida,67,64,1990
+1,UConn,74,9,California,54,32,1990
+5,Clemson,79,4,La Salle,75,32,1990
+3,Duke,76,6,St. John's,72,32,1990
+7,UCLA,71,2,Kansas,70,32,1990
+8,North Carolina,79,1,Oklahoma,77,32,1990
+4,Arkansas,86,12,Dayton,84,32,1990
+6,Xavier,74,3,Georgetown,71,32,1990
+10,Texas,73,2,Purdue,72,32,1990
+1,Michigan State,62,9,UC Santa Barbara,58,32,1990
+4,Georgia Tech,94,5,LSU,91,32,1990
+6,Minnesota,81,14,Northern Iowa,78,32,1990
+2,Syracuse,63,7,Virginia,61,32,1990
+1,UNLV,76,8,Ohio State,65,32,1990
+12,Ball State,62,4,Louisville,60,32,1990
+11,Loyola Marymount,149,3,Michigan,115,32,1990
+7,Alabama,77,2,Arizona,55,32,1990
+1,UConn,71,5,Clemson,70,16,1990
+3,Duke,90,7,UCLA,81,16,1990
+4,Arkansas,96,8,North Carolina,73,16,1990
+10,Texas,102,6,Xavier,89,16,1990
+4,Georgia Tech,81,1,Michigan State,80,16,1990
+6,Minnesota,82,2,Syracuse,75,16,1990
+1,UNLV,69,12,Ball State,67,16,1990
+11,Loyola Marymount,62,7,Alabama,60,16,1990
+3,Duke,79,1,UConn,78,8,1990
+4,Arkansas,88,10,Texas,85,8,1990
+4,Georgia Tech,93,6,Minnesota,91,8,1990
+1,UNLV,131,11,Loyola Marymount,101,8,1990
+3,Duke,97,4,Arkansas,83,4,1990
+1,UNLV,90,4,Georgia Tech,81,4,1990
+1,UNLV,103,3,Duke,73,2,1990
+1,North Carolina,101,16,Northeastern,66,64,1991
+9,Villanova,50,8,Princeton,48,64,1991
+12,Eastern Michigan,76,5,Mississippi State,56,64,1991
+13,Penn State,74,4,UCLA,69,64,1991
+6,NC State,114,11,Southern Miss,85,64,1991
+3,Oklahoma State,67,14,New Mexico,54,64,1991
+10,Temple,80,7,Purdue,63,64,1991
+15,Richmond,73,2,Syracuse,69,64,1991
+1,Arkansas,117,16,Georgia State,76,64,1991
+8,Arizona State,79,9,Rutgers,76,64,1991
+5,Wake Forest,71,12,Louisiana Tech,65,64,1991
+4,Alabama,89,13,Murray State,79,64,1991
+6,Pittsburgh,76,11,Georgia,68,64,1991
+3,Kansas,55,14,New Orleans,49,64,1991
+7,Florida State,75,10,USC,72,64,1991
+2,Indiana,79,15,Coastal Carolina,69,64,1991
+1,Ohio State,97,16,Towson,86,64,1991
+8,Georgia Tech,87,9,DePaul,70,64,1991
+5,Texas,73,12,Saint Peter's,65,64,1991
+4,St. John's,75,13,Northern Illinois,68,64,1991
+11,UConn,79,6,LSU,62,64,1991
+14,Xavier,89,3,Nebraska,84,64,1991
+7,Iowa,76,10,East Tennessee State,73,64,1991
+2,Duke,102,15,Northeast Louisiana,73,64,1991
+1,UNLV,99,16,Montana,65,64,1991
+8,Georgetown,70,9,Vanderbilt,60,64,1991
+5,Michigan State,60,12,Green Bay,58,64,1991
+4,Utah,82,13,South Alabama,72,64,1991
+11,Creighton,64,6,New Mexico State,56,64,1991
+3,Seton Hall,71,14,Pepperdine,51,64,1991
+10,BYU,61,7,Virginia,48,64,1991
+2,Arizona,93,15,Saint Francis (PA),80,64,1991
+1,North Carolina,84,9,Villanova,69,32,1991
+12,Eastern Michigan,71,13,Penn State,68,32,1991
+3,Oklahoma State,73,6,NC State,63,32,1991
+10,Temple,77,15,Richmond,64,32,1991
+1,Arkansas,97,8,Arizona State,90,32,1991
+4,Alabama,96,5,Wake Forest,88,32,1991
+3,Kansas,77,6,Pittsburgh,66,32,1991
+2,Indiana,82,7,Florida State,60,32,1991
+1,Ohio State,65,8,Georgia Tech,61,32,1991
+4,St. John's,84,5,Texas,76,32,1991
+11,UConn,66,14,Xavier,50,32,1991
+2,Duke,85,7,Iowa,70,32,1991
+1,UNLV,62,8,Georgetown,54,32,1991
+4,Utah,85,5,Michigan State,84,32,1991
+3,Seton Hall,81,11,Creighton,69,32,1991
+2,Arizona,76,10,BYU,61,32,1991
+1,North Carolina,93,12,Eastern Michigan,67,16,1991
+10,Temple,72,3,Oklahoma State,62,16,1991
+1,Arkansas,93,4,Alabama,70,16,1991
+3,Kansas,83,2,Indiana,65,16,1991
+4,St. John's,91,1,Ohio State,74,16,1991
+2,Duke,81,11,UConn,67,16,1991
+1,UNLV,83,4,Utah,66,16,1991
+3,Seton Hall,81,2,Arizona,77,16,1991
+1,North Carolina,75,10,Temple,72,8,1991
+3,Kansas,93,1,Arkansas,81,8,1991
+2,Duke,78,4,St. John's,61,8,1991
+1,UNLV,77,3,Seton Hall,65,8,1991
+3,Kansas,79,1,North Carolina,73,4,1991
+2,Duke,79,1,UNLV,77,4,1991
+2,Duke,72,3,Kansas,65,2,1991
+1,Duke,82,16,Campbell,56,64,1992
+9,Iowa,98,8,Texas,92,64,1992
+5,Missouri,89,12,West Virginia,78,64,1992
+4,Seton Hall,78,13,La Salle,76,64,1992
+6,Syracuse,51,11,Princeton,43,64,1992
+3,UMass,85,14,Fordham,58,64,1992
+10,Iowa State,76,7,Charlotte,74,64,1992
+2,Kentucky,88,15,Old Dominion,69,64,1992
+1,UCLA,73,16,Robert Morris,53,64,1992
+8,Louisville,81,9,Wake Forest,73,64,1992
+12,New Mexico State,81,5,DePaul,73,64,1992
+13,Southwest Louisiana,87,4,Oklahoma,83,64,1992
+6,Georgetown,75,11,South Florida,60,64,1992
+3,Florida State,78,14,Montana,68,64,1992
+7,LSU,94,10,BYU,83,64,1992
+2,Indiana,94,15,Eastern Illinois,55,64,1992
+1,Ohio State,83,16,Mississippi Valley State,56,64,1992
+9,UConn,86,8,Nebraska,65,64,1992
+5,Alabama,80,12,Stanford,75,64,1992
+4,North Carolina,68,13,Miami (Ohio),63,64,1992
+6,Michigan,73,11,Temple,66,64,1992
+14,East Tennessee State,87,3,Arizona,80,64,1992
+10,Tulane,61,7,St. John's,57,64,1992
+2,Oklahoma State,100,15,Georgia Southern,73,64,1992
+1,Kansas,100,16,Howard,67,64,1992
+9,UTEP,55,8,Evansville,50,64,1992
+5,Michigan State,61,12,Southwest Missouri State,54,64,1992
+4,Cincinnati,85,13,Delaware,47,64,1992
+6,Memphis State,80,11,Pepperdine,70,64,1992
+3,Arkansas,80,14,Murray State,69,64,1992
+7,Georgia Tech,65,10,Houston,60,64,1992
+2,USC,84,15,Northeast Louisiana,54,64,1992
+1,Duke,75,9,Iowa,62,32,1992
+4,Seton Hall,88,5,Missouri,71,32,1992
+3,UMass,77,6,Syracuse,71,32,1992
+2,Kentucky,106,10,Iowa State,98,32,1992
+1,UCLA,85,8,Louisville,69,32,1992
+12,New Mexico State,81,13,Southwest Louisiana,73,32,1992
+3,Florida State,78,6,Georgetown,68,32,1992
+2,Indiana,89,7,LSU,79,32,1992
+1,Ohio State,78,9,UConn,55,32,1992
+4,North Carolina,64,5,Alabama,55,32,1992
+6,Michigan,102,14,East Tennessee State,90,32,1992
+2,Oklahoma State,87,10,Tulane,71,32,1992
+9,UTEP,66,1,Kansas,60,32,1992
+4,Cincinnati,77,5,Michigan State,65,32,1992
+6,Memphis State,82,3,Arkansas,80,32,1992
+7,Georgia Tech,79,2,USC,78,32,1992
+1,Duke,81,4,Seton Hall,69,16,1992
+2,Kentucky,87,3,UMass,77,16,1992
+1,UCLA,85,12,New Mexico State,78,16,1992
+2,Indiana,85,3,Florida State,74,16,1992
+1,Ohio State,80,4,North Carolina,73,16,1992
+6,Michigan,75,2,Oklahoma State,72,16,1992
+4,Cincinnati,69,9,UTEP,67,16,1992
+6,Memphis State,83,7,Georgia Tech,79,16,1992
+1,Duke,104,2,Kentucky,103,8,1992
+2,Indiana,106,1,UCLA,79,8,1992
+6,Michigan,75,1,Ohio State,71,8,1992
+4,Cincinnati,88,6,Memphis State,57,8,1992
+1,Duke,81,2,Indiana,78,4,1992
+6,Michigan,76,4,Cincinnati,72,4,1992
+1,Duke,71,6,Michigan,51,2,1992
+1,North Carolina,85,16,East Carolina,65,64,1993
+8,Rhode Island,74,9,Purdue,68,64,1993
+5,St. John's,85,12,Texas Tech,67,64,1993
+4,Arkansas,94,13,Holy Cross,64,64,1993
+6,Virginia,78,11,Manhattan,66,64,1993
+3,UMass,54,14,Penn,50,64,1993
+7,New Mexico State,93,10,Nebraska,79,64,1993
+2,Cincinnati,93,15,Coppin State,66,64,1993
+1,Indiana,97,16,Wright State,54,64,1993
+9,Xavier,73,8,New Orleans,55,64,1993
+5,Oklahoma State,74,12,Marquette,62,64,1993
+4,Louisville,76,13,Delaware,70,64,1993
+6,California,66,11,LSU,64,64,1993
+3,Duke,105,14,Southern Illinois,70,64,1993
+7,BYU,80,10,SMU,71,64,1993
+2,Kansas,94,15,Ball State,72,64,1993
+1,Kentucky,96,16,Rider,52,64,1993
+8,Utah,86,9,Pittsburgh,65,64,1993
+5,Wake Forest,81,12,Chattanooga,58,64,1993
+4,Iowa,82,13,Northeast Louisiana,69,64,1993
+11,Tulane,55,6,Kansas State,53,64,1993
+3,Florida State,82,14,Evansville,70,64,1993
+7,Western Kentucky,55,10,Memphis State,52,64,1993
+2,Seton Hall,81,15,Tennessee State,59,64,1993
+1,Michigan,84,16,Coastal Carolina,53,64,1993
+9,UCLA,81,8,Iowa State,70,64,1993
+12,George Washington,82,5,New Mexico,68,64,1993
+13,Southern,93,4,Georgia Tech,78,64,1993
+6,Illinois,75,11,Long Beach State,72,64,1993
+3,Vanderbilt,92,14,Boise State,72,64,1993
+7,Temple,75,10,Missouri,61,64,1993
+15,Santa Clara,64,2,Arizona,61,64,1993
+1,North Carolina,112,8,Rhode Island,67,32,1993
+4,Arkansas,80,5,St. John's,74,32,1993
+6,Virginia,71,3,UMass,56,32,1993
+2,Cincinnati,92,7,New Mexico State,55,32,1993
+1,Indiana,73,9,Xavier,70,32,1993
+4,Louisville,78,5,Oklahoma State,63,32,1993
+6,California,82,3,Duke,77,32,1993
+2,Kansas,90,7,BYU,76,32,1993
+1,Kentucky,83,8,Utah,62,32,1993
+5,Wake Forest,84,4,Iowa,78,32,1993
+3,Florida State,94,11,Tulane,63,32,1993
+7,Western Kentucky,72,2,Seton Hall,68,32,1993
+1,Michigan,86,9,UCLA,84,32,1993
+12,George Washington,90,13,Southern,80,32,1993
+3,Vanderbilt,85,6,Illinois,68,32,1993
+7,Temple,68,15,Santa Clara,57,32,1993
+1,North Carolina,80,4,Arkansas,74,16,1993
+2,Cincinnati,71,6,Virginia,54,16,1993
+1,Indiana,82,4,Louisville,69,16,1993
+2,Kansas,93,6,California,76,16,1993
+1,Kentucky,103,5,Wake Forest,69,16,1993
+3,Florida State,81,7,Western Kentucky,78,16,1993
+1,Michigan,72,12,George Washington,64,16,1993
+7,Temple,67,3,Vanderbilt,59,16,1993
+1,North Carolina,75,2,Cincinnati,68,8,1993
+2,Kansas,83,1,Indiana,77,8,1993
+1,Kentucky,106,3,Florida State,81,8,1993
+1,Michigan,77,7,Temple,72,8,1993
+1,North Carolina,78,2,Kansas,68,4,1993
+1,Michigan,81,1,Kentucky,78,4,1993
+1,North Carolina,77,1,Michigan,71,2,1993
+1,North Carolina,71,16,Liberty,51,64,1994
+9,Boston College,67,8,Washington State,64,64,1994
+5,Indiana,84,12,Ohio,72,64,1994
+4,Temple,61,13,Drexel,39,64,1994
+11,Penn,90,6,Nebraska,80,64,1994
+3,Florida,64,14,James Madison,62,64,1994
+10,George Washington,51,7,UAB,46,64,1994
+2,UConn,64,15,Rider,46,64,1994
+1,Purdue,98,16,UCF,67,64,1994
+9,Alabama,76,8,Providence,70,64,1994
+5,Wake Forest,68,12,College of Charleston,58,64,1994
+4,Kansas,102,13,Chattanooga,73,64,1994
+6,Marquette,81,11,Southwest Louisiana,59,64,1994
+3,Kentucky,83,14,Tennessee State,70,64,1994
+7,Michigan State,84,10,Seton Hall,73,64,1994
+2,Duke,82,15,Texas Southern,70,64,1994
+1,Arkansas,94,16,North Carolina A&T,79,64,1994
+9,Georgetown,84,8,Illinois,77,64,1994
+12,Tulsa,112,5,UCLA,102,64,1994
+4,Oklahoma State,65,13,New Mexico State,55,64,1994
+6,Texas,91,11,Western Kentucky,77,64,1994
+3,Michigan,78,14,Pepperdine,74,64,1994
+10,Maryland,74,7,Saint Louis,66,64,1994
+2,UMass,78,15,Southwest Texas State,60,64,1994
+1,Missouri,76,16,Navy,53,64,1994
+9,Wisconsin,80,8,Cincinnati,72,64,1994
+12,Green Bay,61,5,California,57,64,1994
+4,Syracuse,92,13,Hawai'i,78,64,1994
+6,Minnesota,74,11,Southern Illinois,60,64,1994
+3,Louisville,67,14,Boise State,58,64,1994
+7,Virginia,57,10,New Mexico,54,64,1994
+2,Arizona,81,15,Loyola (Maryland),55,64,1994
+9,Boston College,75,1,North Carolina,72,32,1994
+5,Indiana,67,4,Temple,58,32,1994
+3,Florida,70,11,Penn,58,32,1994
+2,UConn,75,10,George Washington,63,32,1994
+1,Purdue,83,9,Alabama,73,32,1994
+4,Kansas,69,5,Wake Forest,58,32,1994
+6,Marquette,75,3,Kentucky,63,32,1994
+2,Duke,85,7,Michigan State,74,32,1994
+1,Arkansas,85,9,Georgetown,73,32,1994
+12,Tulsa,82,4,Oklahoma State,80,32,1994
+3,Michigan,84,6,Texas,79,32,1994
+10,Maryland,95,2,UMass,87,32,1994
+1,Missouri,109,9,Wisconsin,96,32,1994
+4,Syracuse,64,12,Green Bay,59,32,1994
+3,Louisville,60,6,Minnesota,55,32,1994
+2,Arizona,71,7,Virginia,58,32,1994
+9,Boston College,77,68,Indiana,68,16,1994
+3,Florida,69,2,UConn,60,16,1994
+1,Purdue,83,4,Kansas,78,16,1994
+2,Duke,59,6,Marquette,49,16,1994
+1,Arkansas,103,12,Tulsa,84,16,1994
+3,Michigan,78,10,Maryland,71,16,1994
+1,Missouri,98,4,Syracuse,88,16,1994
+2,Arizona,82,3,Louisville,70,16,1994
+3,Florida,74,9,Boston College,66,8,1994
+2,Duke,69,1,Purdue,60,8,1994
+1,Arkansas,76,3,Michigan,68,8,1994
+2,Arizona,92,1,Missouri,72,8,1994
+2,Duke,70,3,Florida,65,4,1994
+1,Arkansas,91,2,Arizona,82,4,1994
+1,Arkansas,76,2,Duke,72,2,1994
+1,Wake Forest,79,16,North Carolina A&T,47,64,1995
+9,Saint Louis,64,8,Minnesota,61,64,1995
+5,Alabama,91,12,Penn,85,64,1995
+4,Oklahoma State,73,13,Drexel,49,64,1995
+6,Tulsa,68,11,Illinois,62,64,1995
+14,Old Dominion,89,3,Villanova,81,64,1995
+10,Stanford,70,7,UNC Charlotte,68,64,1995
+2,UMass,68,15,Saint Peter's,51,64,1995
+1,UCLA,92,16,FIU,56,64,1995
+8,Missouri,65,9,Indiana,60,64,1995
+5,Mississippi State,75,12,Santa Clara,67,64,1995
+4,Utah,76,13,Long Beach State,64,64,1995
+11,Texas,90,6,Oregon,73,64,1995
+3,Maryland,87,14,Gonzaga,63,64,1995
+7,Cincinnati,77,10,Temple,71,64,1995
+2,UConn,100,15,Chattanooga,71,64,1995
+1,Kentucky,113,16,Mount St. Mary's,67,64,1995
+9,Tulane,76,8,BYU,70,64,1995
+5,Arizona State,81,12,Ball State,66,64,1995
+13,Manhattan,77,4,Oklahoma,67,64,1995
+6,Georgetown,68,11,Xavier,63,64,1995
+14,Weber State,79,3,Michigan State,72,64,1995
+7,Iowa State,64,10,Florida,61,64,1995
+2,North Carolina,80,15,Murray State,70,64,1995
+1,Kansas,82,16,Colgate,68,64,1995
+8,Western Kentucky,82,9,Michigan,76,64,1995
+12,Miami (Ohio),71,5,Arizona,62,64,1995
+4,Virginia,96,13,Nicholls State,72,64,1995
+6,Memphis,77,11,Louisville,56,64,1995
+3,Purdue,49,14,Green Bay,48,64,1995
+7,Syracuse,96,10,Southern Illinois,92,64,1995
+2,Arkansas,79,15,Texas Southern,78,64,1995
+1,Wake Forest,64,9,Saint Louis,59,32,1995
+4,Oklahoma State,66,13,Alabama,52,32,1995
+6,Tulsa,64,14,Old Dominion,52,32,1995
+2,UMass,75,10,Stanford,53,32,1995
+1,UCLA,75,8,Missouri,74,32,1995
+5,Mississippi State,78,4,Utah,64,32,1995
+3,Maryland,82,11,Texas,68,32,1995
+2,UConn,96,7,Cincinnati,91,32,1995
+1,Kentucky,82,9,Tulane,60,32,1995
+5,Arizona State,64,13,Manhattan,54,32,1995
+6,Georgetown,53,14,Weber State,51,32,1995
+2,North Carolina,73,7,Iowa State,51,32,1995
+1,Kansas,75,8,Western Kentucky,70,32,1995
+4,Virginia,60,12,Miami (Ohio),54,32,1995
+6,Memphis,75,3,Purdue,73,32,1995
+2,Arkansas,96,7,Syracuse,94,32,1995
+4,Oklahoma State,71,1,Wake Forest,66,16,1995
+2,UMass,76,6,Tulsa,51,16,1995
+1,UCLA,86,5,Mississippi State,67,16,1995
+2,UConn,99,3,Maryland,89,16,1995
+1,Kentucky,97,5,Arizona State,73,16,1995
+2,North Carolina,74,6,Georgetown,64,16,1995
+4,Virginia,67,1,Kansas,58,16,1995
+2,Arkansas,96,6,Memphis,91,16,1995
+4,Oklahoma State,68,2,UMass,54,8,1995
+1,UCLA,102,2,UConn,96,8,1995
+2,North Carolina,74,1,Kentucky,61,8,1995
+2,Arkansas,68,4,Virginia,61,8,1995
+1,UCLA,74,4,Oklahoma State,61,4,1995
+2,Arkansas,75,2,North Carolina,68,4,1995
+1,UCLA,89,2,Arkansas,78,2,1995
+1,UMass,92,16,UCF,70,64,1996
+9,Stanford,66,8,Bradley,58,64,1996
+12,Arkansas,86,5,Penn State,80,64,1996
+4,Marquette,68,13,Monmouth,44,64,1996
+6,North Carolina,83,11,New Orleans,62,64,1996
+3,Texas Tech,74,14,Northern Illinois,73,64,1996
+7,New Mexico,69,10,Kansas State,48,64,1996
+2,Georgetown,93,15,Mississippi Valley State,56,64,1996
+1,Kentucky,110,16,San Jose State,72,64,1996
+9,Virginia Tech,61,8,Green Bay,49,64,1996
+5,Iowa State,74,12,California,64,64,1996
+4,Utah,72,13,Canisius,43,64,1996
+6,Louisville,82,11,Tulsa,80,64,1996
+3,Villanova,92,14,Portland,58,64,1996
+10,Texas,80,7,Michigan,76,64,1996
+2,Wake Forest,62,15,Northeast Louisiana,50,64,1996
+1,UConn,68,16,Colgate,59,64,1996
+9,Eastern Michigan,75,8,Duke,60,64,1996
+5,Mississippi State,58,12,VCU,51,64,1996
+13,Princeton,43,4,UCLA,41,64,1996
+11,Boston College,64,6,Indiana,51,64,1996
+3,Georgia Tech,90,14,Austin Peay,79,64,1996
+7,Temple,61,10,Oklahoma,43,64,1996
+2,Cincinnati,66,15,UNC Greensboro,61,64,1996
+1,Purdue,73,16,Western Carolina,71,64,1996
+8,Georgia,81,9,Clemson,74,64,1996
+12,Drexel,75,5,Memphis,63,64,1996
+4,Syracuse,88,13,Montana State,55,64,1996
+6,Iowa,81,11,George Washington,79,64,1996
+3,Arizona,90,14,Valparaiso,51,64,1996
+10,Santa Clara,91,7,Maryland,79,64,1996
+2,Kansas,92,15,South Carolina State,54,64,1996
+1,UMass,79,9,Stanford,74,32,1996
+12,Arkansas,65,4,Marquette,56,32,1996
+3,Texas Tech,92,6,North Carolina,73,32,1996
+2,Georgetown,75,7,New Mexico,65,32,1996
+1,Kentucky,84,9,Virginia Tech,60,32,1996
+4,Utah,73,5,Iowa State,67,32,1996
+6,Louisville,68,3,Villanova,64,32,1996
+2,Wake Forest,65,10,Texas,62,32,1996
+1,UConn,95,9,Eastern Michigan,81,32,1996
+5,Mississippi State,63,13,Princeton,41,32,1996
+3,Georgia Tech,103,11,Boston College,89,32,1996
+2,Cincinnati,78,7,Temple,65,32,1996
+8,Georgia,76,1,Purdue,69,32,1996
+4,Syracuse,69,12,Drexel,58,32,1996
+3,Arizona,87,6,Iowa,73,32,1996
+2,Kansas,76,10,Santa Clara,51,32,1996
+1,UMass,79,12,Arkansas,63,16,1996
+2,Georgetown,98,3,Texas Tech,90,16,1996
+1,Kentucky,101,4,Utah,70,16,1996
+2,Wake Forest,60,6,Louisville,59,16,1996
+5,Mississippi State,60,1,UConn,55,16,1996
+2,Cincinnati,87,3,Georgia Tech,70,16,1996
+4,Syracuse,83,8,Georgia,81,16,1996
+2,Kansas,83,3,Arizona,80,16,1996
+1,UMass,86,2,Georgetown,62,8,1996
+1,Kentucky,83,2,Wake Forest,63,8,1996
+5,Mississippi State,73,2,Cincinnati,63,8,1996
+4,Syracuse,60,2,Kansas,57,8,1996
+1,Kentucky,81,1,UMass,74,4,1996
+4,Syracuse,77,5,Mississippi State,69,4,1996
+1,Kentucky,76,4,Syracuse,67,2,1996
+1,North Carolina,82,16,Fairfield,74,64,1997
+9,Colorado,80,8,Indiana,62,64,1997
+5,California,55,12,Princeton,52,64,1997
+4,Villanova,101,13,Long Island,91,64,1997
+6,Louisville,65,11,UMass,57,64,1997
+3,New Mexico,59,14,Old Dominion,55,64,1997
+10,Texas,71,7,Wisconsin,58,64,1997
+15,Coppin State,78,2,South Carolina,65,64,1997
+1,Kansas,78,16,Jackson State,64,64,1997
+8,Purdue,83,9,Rhode Island,76,64,1997
+12,College of Charleston,75,5,Maryland,66,64,1997
+4,Arizona,65,13,South Alabama,57,64,1997
+6,Illinois,90,11,USC,77,64,1997
+14,Chattanooga,73,3,Georgia,70,64,1997
+10,Providence,81,7,Marquette,59,64,1997
+2,Duke,71,15,Murray State,68,64,1997
+1,Minnesota,78,16,Southwest Texas State,46,64,1997
+9,Temple,62,8,Ole Miss,40,64,1997
+5,Tulsa,81,12,Boston University,52,64,1997
+4,Clemson,68,13,Miami (Ohio),56,64,1997
+6,Iowa State,69,11,Illinois State,57,64,1997
+3,Cincinnati,86,14,Butler,69,64,1997
+7,Xavier,80,10,Vanderbilt,68,64,1997
+2,UCLA,109,15,Charleston Southern,75,64,1997
+1,Kentucky,92,16,Montana,54,64,1997
+8,Iowa,73,9,Virginia,60,64,1997
+5,Boston College,73,12,Valparaiso,66,64,1997
+4,Saint Joseph's,75,13,Pacific,65,64,1997
+6,Stanford,80,11,Oklahoma,67,64,1997
+3,Wake Forest,68,14,Saint Mary's,46,64,1997
+7,UNC Charlotte,79,10,Georgetown,67,64,1997
+2,Utah,75,15,Navy,61,64,1997
+1,North Carolina,73,9,Colorado,56,32,1997
+5,California,75,4,Villanova,68,32,1997
+6,Louisville,64,3,New Mexico,63,32,1997
+10,Texas,82,15,Coppin State,81,32,1997
+1,Kansas,75,8,Purdue,61,32,1997
+4,Arizona,73,12,College of Charleston,69,32,1997
+14,Chattanooga,75,6,Illinois,63,32,1997
+10,Providence,98,2,Duke,87,32,1997
+1,Minnesota,76,9,Temple,57,32,1997
+4,Clemson,65,5,Tulsa,59,32,1997
+6,Iowa State,67,3,Cincinnati,66,32,1997
+2,UCLA,96,7,Xavier,83,32,1997
+1,Kentucky,75,8,Iowa,69,32,1997
+4,Saint Joseph's,81,5,Boston College,77,32,1997
+6,Stanford,72,3,Wake Forest,66,32,1997
+2,Utah,77,7,UNC Charlotte,58,32,1997
+1,North Carolina,63,5,California,57,16,1997
+6,Louisville,78,10,Texas,63,16,1997
+4,Arizona,85,1,Kansas,82,16,1997
+10,Providence,71,14,Chattanooga,65,16,1997
+1,Minnesota,90,4,Clemson,84,16,1997
+2,UCLA,74,6,Iowa State,73,16,1997
+1,Kentucky,83,4,Saint Joseph's,68,16,1997
+2,Utah,82,6,Stanford,77,16,1997
+1,North Carolina,97,6,Louisville,74,8,1997
+4,Arizona,96,10,Providence,92,8,1997
+1,Minnesota,80,2,UCLA,72,8,1997
+1,Kentucky,72,2,Utah,59,8,1997
+4,Arizona,66,1,North Carolina,58,4,1997
+1,Kentucky,78,1,Minnesota,69,4,1997
+4,Arizona,84,1,Kentucky,79,2,1997
+1,North Carolina,88,16,Navy,52,64,1998
+8,UNC Charlotte,77,9,Illinois-Chicago,62,64,1998
+5,Princeton,69,12,UNLV,57,64,1998
+4,Michigan State,83,13,Eastern Michigan,71,64,1998
+11,Washington,69,6,Xavier,68,64,1998
+14,Richmond,62,3,South Carolina,61,64,1998
+7,Indiana,94,10,Oklahoma,87,64,1998
+2,UConn,93,15,Fairleigh Dickinson,85,64,1998
+1,Arizona,99,16,Nicholls State,60,64,1998
+9,Illinois State,82,8,Tennessee,81,64,1998
+5,Illinois,64,12,South Alabama,51,64,1998
+4,Maryland,82,13,Utah State,68,64,1998
+6,Arkansas,74,11,Nebraska,65,64,1998
+3,Utah,85,14,San Francisco,68,64,1998
+10,West Virginia,82,7,Temple,52,64,1998
+2,Cincinnati,65,15,Northern Arizona,62,64,1998
+1,Duke,99,16,Radford,63,64,1998
+8,Oklahoma State,74,9,George Washington,59,64,1998
+5,Syracuse,63,12,Iona,61,64,1998
+4,New Mexico,79,13,Butler,62,64,1998
+6,UCLA,65,11,Miami (FL),62,64,1998
+3,Michigan,80,14,Davidson,61,64,1998
+10,Saint Louis,51,7,UMass,46,64,1998
+2,Kentucky,82,15,South Carolina State,67,64,1998
+1,Kansas,110,16,Prairie View A&M,52,64,1998
+8,Rhode Island,97,9,Murray State,74,64,1998
+12,Florida State,96,5,TCU,87,64,1998
+13,Valparaiso,70,4,Ole Miss,69,64,1998
+11,Western Michigan,75,6,Clemson,72,64,1998
+3,Stanford,67,14,College of Charleston,57,64,1998
+10,Detroit,66,7,St. John's,64,64,1998
+2,Purdue,95,15,Delaware,56,64,1998
+1,North Carolina,93,8,UNC Charlotte,83,32,1998
+4,Michigan State,63,5,Princeton,56,32,1998
+11,Washington,81,14,Richmond,66,32,1998
+2,UConn,78,7,Indiana,68,32,1998
+1,Arizona,82,9,Illinois State,49,32,1998
+4,Maryland,67,5,Illinois,61,32,1998
+3,Utah,75,6,Arkansas,69,32,1998
+10,West Virginia,75,2,Cincinnati,74,32,1998
+1,Duke,79,8,Oklahoma State,73,32,1998
+5,Syracuse,56,4,New Mexico,46,32,1998
+6,UCLA,85,3,Michigan,82,32,1998
+2,Kentucky,88,10,Saint Louis,61,32,1998
+8,Rhode Island,80,1,Kansas,75,32,1998
+13,Valparaiso,83,12,Florida State,77,32,1998
+3,Stanford,83,11,Western Michigan,65,32,1998
+2,Purdue,80,10,Detroit,65,32,1998
+1,North Carolina,73,4,Michigan State,58,16,1998
+2,UConn,75,11,Washington,74,16,1998
+1,Arizona,87,4,Maryland,79,16,1998
+3,Utah,65,10,West Virginia,62,16,1998
+1,Duke,80,5,Syracuse,67,16,1998
+2,Kentucky,94,6,UCLA,68,16,1998
+8,Rhode Island,74,13,Valparaiso,68,16,1998
+3,Stanford,67,2,Purdue,59,16,1998
+1,North Carolina,75,2,UConn,64,8,1998
+3,Utah,76,1,Arizona,51,8,1998
+2,Kentucky,86,1,Duke,84,8,1998
+3,Stanford,79,8,Rhode Island,77,8,1998
+3,Utah,65,1,North Carolina,59,4,1998
+2,Kentucky,86,3,Stanford,85,4,1998
+2,Kentucky,78,3,Utah,69,2,1998
+1,Duke,99,16,Florida A&M,58,64,1999
+2,Miami (FL),75,15,Lafayette,54,64,1999
+3,Cincinnati,72,14,George Mason,48,64,1999
+4,Tennessee,62,13,Delaware,52,64,1999
+12,Southwest Missouri State,43,5,Wisconsin,32,64,1999
+6,Temple,61,11,Kent State,54,64,1999
+10,Purdue,58,7,Texas,54,64,1999
+9,Tulsa,62,8,College of Charleston,53,64,1999
+1,Michigan State,76,16,Mount St. Mary's,53,64,1999
+2,Utah,80,15,Arkansas State,58,64,1999
+3,Kentucky,82,14,New Mexico State,60,64,1999
+13,Oklahoma,61,4,Arizona,60,64,1999
+5,UNC Charlotte,81,12,Rhode Island,70,64,1999
+6,Kansas,95,11,Evansville,74,64,1999
+10,Miami (Ohio),59,7,Washington,58,64,1999
+9,Ole Miss,72,8,Villanova,70,64,1999
+1,Auburn,80,16,Winthrop,41,64,1999
+2,Maryland,82,15,Valparaiso,60,64,1999
+3,St. John's,69,14,Samford,43,64,1999
+4,Ohio State,72,13,Murray State,58,64,1999
+12,Detroit,56,5,UCLA,53,64,1999
+6,Indiana,108,11,George Washington,88,64,1999
+10,Creighton,62,7,Louisville,58,64,1999
+9,Oklahoma State,69,8,Syracuse,61,64,1999
+1,UConn,91,16,UTSA,66,64,1999
+2,Stanford,69,15,Alcorn State,57,64,1999
+14,Weber State,76,3,North Carolina,74,64,1999
+4,Arkansas,94,13,Siena,80,64,1999
+5,Iowa,77,12,UAB,64,64,1999
+6,Florida,75,11,Penn,61,64,1999
+10,Gonzaga,75,7,Minnesota,63,64,1999
+9,New Mexico,61,8,Missouri,59,64,1999
+1,Duke,97,9,Tulsa,56,32,1999
+10,Purdue,73,2,Miami (FL),63,32,1999
+6,Temple,64,3,Cincinnati,54,32,1999
+12,Southwest Missouri State,81,4,Tennessee,51,32,1999
+1,Michigan State,74,9,Ole Miss,66,32,1999
+10,Miami (Ohio),66,2,Utah,58,32,1999
+3,Kentucky,92,6,Kansas,88,32,1999
+13,Oklahoma,85,5,UNC Charlotte,72,32,1999
+1,Auburn,81,9,Oklahoma State,74,32,1999
+2,Maryland,75,10,Creighton,63,32,1999
+3,St. John's,86,6,Indiana,61,32,1999
+4,Ohio State,75,12,Detroit,44,32,1999
+1,UConn,78,9,New Mexico,56,32,1999
+10,Gonzaga,82,2,Stanford,74,32,1999
+5,Iowa,82,4,Arkansas,72,32,1999
+6,Florida,82,14,Weber State,74,32,1999
+1,Duke,78,12,Southwest Missouri State,61,16,1999
+6,Temple,77,10,Purdue,55,16,1999
+1,Michigan State,54,13,Oklahoma,46,16,1999
+3,Kentucky,58,10,Miami (Ohio),43,16,1999
+4,Ohio State,72,1,Auburn,64,16,1999
+3,St. John's,76,2,Maryland,62,16,1999
+1,UConn,78,5,Iowa,68,16,1999
+10,Gonzaga,73,6,Florida,72,16,1999
+1,Duke,85,6,Temple,64,8,1999
+1,Michigan State,73,3,Kentucky,66,8,1999
+4,Ohio State,77,3,St. John's,74,8,1999
+1,UConn,67,10,Gonzaga,62,8,1999
+1,UConn,64,4,Ohio State,58,4,1999
+1,Duke,68,1,Michigan State,62,4,1999
+1,UConn,77,1,Duke,74,2,1999
+1,Duke,82,16,Lamar,55,64,2000
+8,Kansas,81,9,DePaul,77,64,2000
+5,Florida,69,12,Butler,68,64,2000
+4,Illinois,68,13,Penn,58,64,2000
+11,Pepperdine,77,6,Indiana,57,64,2000
+3,Oklahoma State,86,14,Hofstra,66,64,2000
+10,Seton Hall,72,7,Oregon,71,64,2000
+2,Temple,73,15,Lafayette,47,64,2000
+1,Michigan State,65,16,Valparaiso,38,64,2000
+8,Utah,48,9,Saint Louis,45,64,2000
+5,Kentucky,85,12,St. Bonaventure,80,64,2000
+4,Syracuse,79,13,Samford,65,64,2000
+6,UCLA,65,11,Ball State,57,64,2000
+3,Maryland,74,14,Iona,59,64,2000
+7,Auburn,72,10,Creighton,69,64,2000
+2,Iowa State,88,15,Central Connecticut State,78,64,2000
+1,Stanford,84,16,South Carolina State,65,64,2000
+8,North Carolina,84,9,Missouri,70,64,2000
+5,UConn,75,12,Utah State,67,64,2000
+4,Tennessee,63,13,Louisiana-Lafayette,58,64,2000
+6,Miami (FL),75,11,Arkansas,71,64,2000
+3,Ohio State,87,14,Appalachian State,61,64,2000
+7,Tulsa,89,10,UNLV,62,64,2000
+2,Cincinnati,64,15,UNC Wilmington,47,64,2000
+1,Arizona,71,16,Jackson State,47,64,2000
+8,Wisconsin,66,9,Fresno State,56,64,2000
+5,Texas,77,12,Indiana State,61,64,2000
+4,LSU,64,13,Southeast Missouri State,61,64,2000
+6,Purdue,62,11,Dayton,61,64,2000
+3,Oklahoma,74,14,Winthrop,50,64,2000
+10,Gonzaga,77,7,Louisville,66,64,2000
+2,St. John's,61,15,Northern Arizona,56,64,2000
+1,Duke,69,8,Kansas,64,32,2000
+5,Florida,93,4,Illinois,76,32,2000
+3,Oklahoma State,75,11,Pepperdine,67,32,2000
+10,Seton Hall,67,2,Temple,65,32,2000
+1,Michigan State,73,8,Utah,61,32,2000
+4,Syracuse,52,5,Kentucky,50,32,2000
+6,UCLA,105,3,Maryland,70,32,2000
+2,Iowa State,79,7,Auburn,60,32,2000
+8,North Carolina,60,1,Stanford,53,32,2000
+4,Tennessee,65,5,UConn,51,32,2000
+6,Miami (FL),75,3,Ohio State,62,32,2000
+7,Tulsa,69,2,Cincinnati,61,32,2000
+8,Wisconsin,66,1,Arizona,59,32,2000
+4,LSU,72,5,Texas,67,32,2000
+6,Purdue,66,3,Oklahoma,62,32,2000
+10,Gonzaga,82,2,St. John's,76,32,2000
+5,Florida,87,1,Duke,78,16,2000
+3,Oklahoma State,68,10,Seton Hall,66,16,2000
+1,Michigan State,75,4,Syracuse,58,16,2000
+2,Iowa State,80,6,UCLA,56,16,2000
+8,North Carolina,74,4,Tennessee,69,16,2000
+7,Tulsa,80,6,Miami (FL),71,16,2000
+8,Wisconsin,61,4,LSU,48,16,2000
+6,Purdue,75,10,Gonzaga,66,16,2000
+5,Florida,77,3,Oklahoma State,65,8,2000
+1,Michigan State,75,2,Iowa State,64,8,2000
+8,North Carolina,59,7,Tulsa,55,8,2000
+8,Wisconsin,64,6,Purdue,60,8,2000
+5,Florida,71,8,North Carolina,59,4,2000
+1,Michigan State,53,8,Wisconsin,41,4,2000
+1,Michigan State,89,5,Florida,76,2,2000
+1,Duke,95,16,Monmouth,52,64,2001
+9,Missouri,70,8,Georgia,68,64,2001
+12,Utah State,77,5,Ohio State,68,64,2001
+4,UCLA,61,13,Hofstra,48,64,2001
+6,Southern California,69,11,Oklahoma State,54,64,2001
+3,Boston College,68,14,Southern Utah,65,64,2001
+7,Iowa,69,10,Creighton,56,64,2001
+2,Kentucky,72,15,Holy Cross,68,64,2001
+1,Illinois,96,16,Northwestern State,54,64,2001
+9,Charlotte,70,8,Tennessee,63,64,2001
+5,Syracuse,79,12,Hawaii,69,64,2001
+4,Kansas,99,13,Cal State Northridge,75,64,2001
+6,Notre Dame,83,11,Xavier,71,64,2001
+3,Ole Miss,72,14,Iona,70,64,2001
+10,Butler,79,7,Wake Forest,63,64,2001
+2,Arizona,101,15,Eastern Illinois,76,64,2001
+1,Michigan State,69,16,Alabama State,35,64,2001
+9,Fresno State,82,8,California,70,64,2001
+12,Gonzaga,86,5,Virginia,85,64,2001
+13,Indiana State,70,4,Oklahoma,68,64,2001
+11,Temple,79,6,Texas,65,64,2001
+3,Florida,69,14,Western Kentucky,56,64,2001
+7,Penn State,69,10,Providence,59,64,2001
+2,North Carolina,70,15,Princeton,48,64,2001
+1,Stanford,88,16,UNC Greensboro,60,64,2001
+9,Saint Joseph's,66,8,Georgia Tech,62,64,2001
+5,Cincinnati,84,12,BYU,59,64,2001
+13,Kent State,77,4,Indiana,73,64,2001
+11,Georgia State,50,6,Wisconsin,49,64,2001
+3,Maryland,83,14,George Mason,80,64,2001
+10,Georgetown,63,7,Arkansas,61,64,2001
+15,Hampton,58,2,Iowa State,57,64,2001
+1,Duke,94,9,Missouri,81,32,2001
+4,UCLA,75,12,Utah State,50,32,2001
+6,Southern California,74,3,Boston College,71,32,2001
+2,Kentucky,92,7,Iowa,79,32,2001
+1,Illinois,79,9,Charlotte,61,32,2001
+4,Kansas,87,5,Syracuse,58,32,2001
+3,Ole Miss,59,6,Notre Dame,56,32,2001
+2,Arizona,73,10,Butler,52,32,2001
+1,Michigan State,81,9,Fresno State,65,32,2001
+12,Gonzaga,85,13,Indiana State,68,32,2001
+11,Temple,75,3,Florida,54,32,2001
+7,Penn State,82,2,North Carolina,74,32,2001
+1,Stanford,90,9,Saint Joseph's,83,32,2001
+5,Cincinnati,66,13,Kent State,43,32,2001
+3,Maryland,79,11,Georgia State,60,32,2001
+10,Georgetown,76,15,Hampton,57,32,2001
+1,Duke,76,4,UCLA,63,16,2001
+6,Southern California,80,2,Kentucky,76,16,2001
+1,Illinois,80,4,Kansas,64,16,2001
+2,Arizona,66,3,Ole Miss,56,16,2001
+1,Michigan State,77,12,Gonzaga,62,16,2001
+11,Temple,84,7,Penn State,72,16,2001
+1,Stanford,78,5,Cincinnati,65,16,2001
+3,Maryland,76,10,Georgetown,66,16,2001
+1,Duke,79,6,Southern California,69,8,2001
+2,Arizona,87,1,Illinois,81,8,2001
+1,Michigan State,69,11,Temple,62,8,2001
+3,Maryland,87,1,Stanford,73,8,2001
+1,Duke,95,3,Maryland,84,4,2001
+2,Arizona,80,1,Michigan State,61,4,2001
+1,Duke,82,2,Arizona,72,2,2001
+1,Maryland,85,16,Siena,70,64,2002
+8,Wisconsin,80,9,St. John's,70,64,2002
+12,Tulsa,71,5,Marquette,69,64,2002
+4,Kentucky,83,13,Valparaiso,68,64,2002
+11,Southern Illinois,76,6,Texas Tech,68,64,2002
+3,Georgia,85,14,Murray State,68,64,2002
+7,N.C. State,69,10,Michigan State,58,64,2002
+2,UConn,78,15,Hampton,67,64,2002
+1,Kansas,70,16,Holy Cross,59,64,2002
+8,Stanford,84,9,Western Kentucky,68,64,2002
+12,Creighton,83,5,Florida,82,64,2002
+4,Illinois,93,13,San Diego State,64,64,2002
+6,Texas,70,11,Boston College,57,64,2002
+3,Mississippi State,70,14,McNeese State,58,64,2002
+7,Wake Forest,83,10,Pepperdine,74,64,2002
+2,Oregon,81,15,Montana,62,64,2002
+1,Duke,84,16,Winthrop,37,64,2002
+8,Notre Dame,82,9,Charlotte,63,64,2002
+5,Indiana,75,12,Utah,56,64,2002
+13,UNC Wilmington,93,4,Southern California,89,64,2002
+6,California,82,11,Penn,75,64,2002
+3,Pittsburgh,71,14,Central Connecticut State,54,64,2002
+10,Kent State,69,7,Oklahoma State,61,64,2002
+2,Alabama,86,15,Florida Atlantic,78,64,2002
+1,Cincinnati,90,16,Boston University,52,64,2002
+8,UCLA,80,9,Ole Miss,58,64,2002
+12,Missouri,93,5,Miami (FL),80,64,2002
+4,Ohio State,69,13,Davidson,64,64,2002
+11,Wyoming,73,6,Gonzaga,66,64,2002
+3,Arizona,86,14,UC Santa Barbara,81,64,2002
+7,Xavier,70,10,Hawaii,58,64,2002
+2,Oklahoma,71,15,Illinois-Chicago,63,64,2002
+1,Maryland,87,8,Wisconsin,57,32,2002
+4,Kentucky,87,12,Tulsa,82,32,2002
+11,Southern Illinois,77,3,Georgia,75,32,2002
+2,UConn,77,7,N.C. State,74,32,2002
+1,Kansas,86,8,Stanford,63,32,2002
+4,Illinois,72,12,Creighton,60,32,2002
+6,Texas,68,3,Mississippi State,64,32,2002
+2,Oregon,92,7,Wake Forest,87,32,2002
+1,Duke,84,8,Notre Dame,77,32,2002
+5,Indiana,76,13,UNC Wilmington,67,32,2002
+3,Pittsburgh,63,6,California,50,32,2002
+10,Kent State,71,2,Alabama,58,32,2002
+8,UCLA,105,1,Cincinnati,101,32,2002
+12,Missouri,83,4,Ohio State,67,32,2002
+3,Arizona,68,11,Wyoming,60,32,2002
+2,Oklahoma,78,7,Xavier,65,32,2002
+1,Maryland,78,4,Kentucky,68,16,2002
+2,UConn,71,11,Southern Illinois,59,16,2002
+1,Kansas,73,4,Illinois,69,16,2002
+2,Oregon,72,6,Texas,70,16,2002
+5,Indiana,74,1,Duke,73,16,2002
+10,Kent State,78,3,Pittsburgh,73,16,2002
+12,Missouri,82,8,UCLA,73,16,2002
+2,Oklahoma,88,3,Arizona,67,16,2002
+1,Maryland,90,2,UConn,82,8,2002
+1,Kansas,104,2,Oregon,86,8,2002
+5,Indiana,81,10,Kent State,69,8,2002
+2,Oklahoma,81,12,Missouri,75,8,2002
+1,Maryland,97,1,Kansas,88,4,2002
+5,Indiana,73,2,Oklahoma,64,4,2002
+1,Maryland,64,5,Indiana,52,2,2002
+1,Oklahoma,71,16,South Carolina State,54,64,2003
+8,California,76,9,N.C. State,74,64,2003
+12,Butler,47,5,Mississippi State,46,64,2003
+4,Louisville,86,13,Austin Peay,64,64,2003
+6,Oklahoma State,77,11,Penn,63,64,2003
+3,Syracuse,76,14,Manhattan,65,64,2003
+10,Auburn,65,7,Saint Joseph's,63,64,2003
+2,Wake Forest,76,15,East Tennessee State,73,64,2003
+1,Kentucky,95,16,IUPUI,64,64,2003
+9,Utah,60,8,Oregon,58,64,2003
+5,Wisconsin,81,12,Weber State,74,64,2003
+13,Tulsa,84,4,Dayton,71,64,2003
+6,Missouri,72,11,Southern Illinois,71,64,2003
+3,Marquette,72,14,Holy Cross,68,64,2003
+7,Indiana,67,10,Alabama,62,64,2003
+2,Pittsburgh,87,15,Wagner,61,64,2003
+1,Texas,82,16,UNC Asheville,61,64,2003
+9,Purdue,80,8,LSU,56,64,2003
+5,UConn,58,12,BYU,53,64,2003
+4,Stanford,77,13,San Diego,69,64,2003
+6,Maryland,75,11,UNC Wilmington,73,64,2003
+3,Xavier,71,14,Troy State,59,64,2003
+7,Michigan State,79,10,Colorado,64,64,2003
+2,Florida,85,15,Sam Houston State,55,64,2003
+1,Arizona,80,16,Vermont,51,64,2003
+9,Gonzaga,74,8,Cincinnati,69,64,2003
+5,Notre Dame,70,12,Milwaukee,69,64,2003
+4,Illinois,65,13,Western Kentucky,60,64,2003
+11,Central Michigan,79,6,Creighton,73,64,2003
+3,Duke,67,14,Colorado State,57,64,2003
+10,Arizona State,84,7,Memphis,71,64,2003
+2,Kansas,64,15,Utah State,61,64,2003
+1,Oklahoma,74,8,California,65,32,2003
+12,Butler,79,4,Louisville,71,32,2003
+3,Syracuse,68,6,Oklahoma State,56,32,2003
+10,Auburn,68,2,Wake Forest,62,32,2003
+1,Kentucky,74,9,Utah,54,32,2003
+5,Wisconsin,61,13,Tulsa,60,32,2003
+3,Marquette,101,6,Missouri,92,32,2003
+2,Pittsburgh,74,7,Indiana,52,32,2003
+1,Texas,77,9,Purdue,67,32,2003
+5,UConn,85,4,Stanford,74,32,2003
+6,Maryland,77,3,Xavier,64,32,2003
+7,Michigan State,68,2,Florida,46,32,2003
+1,Arizona,96,9,Gonzaga,95,32,2003
+5,Notre Dame,68,4,Illinois,60,32,2003
+3,Duke,86,11,Central Michigan,60,32,2003
+2,Kansas,108,10,Arizona State,76,32,2003
+1,Oklahoma,65,12,Butler,54,16,2003
+3,Syracuse,79,10,Auburn,78,16,2003
+1,Kentucky,63,5,Wisconsin,57,16,2003
+3,Marquette,77,2,Pittsburgh,74,16,2003
+1,Texas,82,5,UConn,78,16,2003
+7,Michigan State,60,6,Maryland,58,16,2003
+1,Arizona,88,5,Notre Dame,71,16,2003
+2,Kansas,69,3,Duke,65,16,2003
+3,Syracuse,63,1,Oklahoma,47,8,2003
+3,Marquette,83,1,Kentucky,69,8,2003
+1,Texas,85,7,Michigan State,76,8,2003
+2,Kansas,78,1,Arizona,75,8,2003
+3,Syracuse,95,1,Texas,84,4,2003
+2,Kansas,94,3,Marquette,61,4,2003
+3,Syracuse,81,2,Kansas,78,2,2003
+16,Florida A&M,72,16,Lehigh,57,0,2004
+1,Saint Joseph's,82,16,Liberty,63,64,2004
+8,Texas Tech,76,9,Charlotte,73,64,2004
+12,Manhattan,75,5,Florida,60,64,2004
+4,Wake Forest,79,13,VCU,78,64,2004
+6,Wisconsin,76,11,Richmond,64,64,2004
+3,Pittsburgh,53,14,UCF,44,64,2004
+7,Memphis,59,10,South Carolina,43,64,2004
+2,Oklahoma State,75,15,Eastern Washington,56,64,2004
+1,Kentucky,96,16,Florida A&M,76,64,2004
+9,UAB,102,8,Washington,100,64,2004
+12,Pacific,66,5,Providence,58,64,2004
+4,Kansas,78,13,Illinois-Chicago,53,64,2004
+6,Boston College,58,11,Utah,51,64,2004
+3,Georgia Tech,65,14,Northern Iowa,60,64,2004
+10,Nevada,72,7,Michigan State,66,64,2004
+2,Gonzaga,76,15,Valparaiso,49,64,2004
+1,Duke,96,16,Alabama State,61,64,2004
+8,Seton Hall,80,9,Arizona,76,64,2004
+5,Illinois,72,12,Murray State,53,64,2004
+4,Cincinnati,80,13,East Tennessee State,77,64,2004
+6,North Carolina,63,11,Air Force,52,64,2004
+3,Texas,66,14,Princeton,49,64,2004
+7,Xavier,80,10,Louisville,70,64,2004
+2,Mississippi State,85,15,Monmouth,52,64,2004
+1,Stanford,71,16,UTSA,45,64,2004
+8,Alabama,65,9,Southern Illinois,64,64,2004
+5,Syracuse,80,12,BYU,75,64,2004
+4,Maryland,86,13,UTEP,83,64,2004
+6,Vanderbilt,71,11,Western Michigan,58,64,2004
+3,NC State,61,14,Louisiana-Lafayette,52,64,2004
+7,DePaul,76,10,Dayton,69,64,2004
+2,UConn,70,15,Vermont,53,64,2004
+1,Saint Joseph's,70,8,Texas Tech,65,32,2004
+4,Wake Forest,84,12,Manhattan,80,32,2004
+3,Pittsburgh,59,6,Wisconsin,55,32,2004
+2,Oklahoma State,70,7,Memphis,53,32,2004
+9,UAB,76,1,Kentucky,75,32,2004
+4,Kansas,78,12,Pacific,63,32,2004
+3,Georgia Tech,57,6,Boston College,54,32,2004
+10,Nevada,91,2,Gonzaga,72,32,2004
+1,Duke,90,8,Seton Hall,62,32,2004
+5,Illinois,92,4,Cincinnati,68,32,2004
+3,Texas,78,6,North Carolina,75,32,2004
+7,Xavier,89,2,Mississippi State,74,32,2004
+8,Alabama,70,1,Stanford,67,32,2004
+5,Syracuse,72,4,Maryland,70,32,2004
+6,Vanderbilt,75,3,NC State,73,32,2004
+2,UConn,72,7,DePaul,55,32,2004
+1,Saint Joseph's,84,4,Wake Forest,80,16,2004
+2,Oklahoma State,63,3,Pittsburgh,51,16,2004
+4,Kansas,100,9,UAB,74,16,2004
+3,Georgia Tech,72,10,Nevada,67,16,2004
+1,Duke,72,5,Illinois,62,16,2004
+7,Xavier,79,3,Texas,71,16,2004
+8,Alabama,80,5,Syracuse,71,16,2004
+2,UConn,73,6,Vanderbilt,53,16,2004
+2,Oklahoma State,64,1,Saint Joseph's,62,8,2004
+3,Georgia Tech,79,4,Kansas,71,8,2004
+1,Duke,66,7,Xavier,63,8,2004
+2,UConn,87,8,Alabama,71,8,2004
+3,Georgia Tech,67,2,Oklahoma State,65,4,2004
+2,UConn,79,1,Duke,78,4,2004
+2,UConn,82,3,Georgia Tech,73,2,2004
+16,Oakland,79,16,Alabama A&M,69,0,2005
+1,North Carolina,96,16,Oakland,68,64,2005
+9,Iowa State,64,8,Minnesota,53,64,2005
+5,Villanova,55,12,New Mexico,47,64,2005
+4,Florida,67,13,Ohio,62,64,2005
+6,Wisconsin,57,11,Northern Iowa,52,64,2005
+14,Bucknell,64,3,Kansas,63,64,2005
+10,NC State,75,7,UNC Charlotte,63,64,2005
+2,UConn,77,15,UCF,71,64,2005
+1,Illinois,67,16,Fairleigh Dickinson,55,64,2005
+9,Nevada,61,8,Texas,57,64,2005
+12,Wisconsin-Milwaukee,83,5,Alabama,73,64,2005
+4,Boston College,85,13,Penn,65,64,2005
+11,UAB,82,6,LSU,68,64,2005
+3,Arizona,66,14,Utah State,53,64,2005
+7,Southern Illinois,65,10,St. Mary's,56,64,2005
+2,Oklahoma State,63,15,Southeastern Louisiana,50,64,2005
+1,Duke,57,16,Delaware State,46,64,2005
+9,Mississippi State,93,8,Stanford,70,64,2005
+5,Michigan State,89,12,Old Dominion,81,64,2005
+13,Vermont,60,4,Syracuse,57,64,2005
+6,Utah,60,11,UTEP,54,64,2005
+3,Oklahoma,84,14,Niagara,67,64,2005
+7,Cincinnati,76,10,Iowa,64,64,2005
+2,Kentucky,72,15,Eastern Kentucky,64,64,2005
+1,Washington,88,16,Montana,77,64,2005
+8,Pacific,79,9,Pittsburgh,71,64,2005
+5,Georgia Tech,80,12,George Washington,68,64,2005
+4,Louisville,68,13,Louisiana-Lafayette,62,64,2005
+6,Texas Tech,78,11,UCLA,66,64,2005
+3,Gonzaga,74,14,Winthrop,64,64,2005
+7,West Virginia,63,10,Creighton,61,64,2005
+2,Wake Forest,70,15,UT-Chattanooga,54,64,2005
+1,North Carolina,92,9,Iowa State,65,32,2005
+5,Villanova,76,4,Florida,65,32,2005
+6,Wisconsin,71,14,Bucknell,62,32,2005
+10,NC State,65,2,UConn,62,32,2005
+1,Illinois,71,9,Nevada,59,32,2005
+12,Wisconsin-Milwaukee,83,4,Boston College,75,32,2005
+3,Arizona,85,11,UAB,63,32,2005
+2,Oklahoma State,85,7,Southern Illinois,77,32,2005
+1,Duke,63,9,Mississippi State,55,32,2005
+5,Michigan State,72,13,Vermont,61,32,2005
+6,Utah,67,3,Oklahoma,58,32,2005
+2,Kentucky,69,7,Cincinnati,60,32,2005
+1,Washington,97,8,Pacific,79,32,2005
+4,Louisville,76,5,Georgia Tech,54,32,2005
+6,Texas Tech,71,3,Gonzaga,69,32,2005
+7,West Virginia,111,2,Wake Forest,105,32,2005
+1,North Carolina,67,5,Villanova,66,16,2005
+6,Wisconsin,65,10,NC State,56,16,2005
+1,Illinois,77,12,Wisconsin-Milwaukee,63,16,2005
+3,Arizona,79,2,Oklahoma State,78,16,2005
+5,Michigan State,78,1,Duke,68,16,2005
+2,Kentucky,62,6,Utah,52,16,2005
+4,Louisville,93,1,Washington,79,16,2005
+7,West Virginia,65,6,Texas Tech,60,16,2005
+1,North Carolina,88,6,Wisconsin,82,8,2005
+1,Illinois,90,3,Arizona,89,8,2005
+5,Michigan State,94,2,Kentucky,88,8,2005
+4,Louisville,93,7,West Virginia,85,8,2005
+1,Illinois,72,4,Louisville,57,4,2005
+1,North Carolina,87,5,Michigan State,71,4,2005
+1,North Carolina,75,1,Illinois,70,2,2005
+16,Monmouth,71,16,Hampton,49,0,2006
+1,UConn,72,16,Albany,59,64,2006
+8,Kentucky,69,9,UAB,64,64,2006
+5,Washington,75,12,Utah State,61,64,2006
+4,Illinois,78,13,Air Force,69,64,2006
+11,George Mason,75,6,Michigan State,65,64,2006
+3,North Carolina,69,14,Murray State,65,64,2006
+7,Wichita State,86,10,Seton Hall,66,64,2006
+2,Tennessee,63,15,Winthrop,61,64,2006
+1,Villanova,58,16,Monmouth,45,64,2006
+8,Arizona,94,9,Wisconsin,75,64,2006
+12,Montana,87,5,Nevada,79,64,2006
+4,Boston College,88,13,Pacific,76,64,2006
+11,Wisconsin-Milwaukee,82,6,Oklahoma,74,64,2006
+3,Florida,76,14,South Alabama,50,64,2006
+7,Georgetown,54,10,Northern Iowa,49,64,2006
+2,Ohio State,70,15,Davidson,62,64,2006
+1,Duke,70,16,Southern,54,64,2006
+8,George Washington,88,9,UNC-Wilmington,85,64,2006
+12,Texas A&M,66,5,Syracuse,58,64,2006
+4,LSU,80,13,Iona,64,64,2006
+6,West Virginia,64,11,Southern Illinois,46,64,2006
+14,Northwestern State,64,3,Iowa,63,64,2006
+10,NC State,58,7,California,52,64,2006
+2,Texas,60,15,Penn,52,64,2006
+1,Memphis,94,16,Oral Roberts,78,64,2006
+9,Bucknell,59,8,Arkansas,55,64,2006
+5,Pittsburgh,79,12,Kent State,64,64,2006
+13,Bradley,77,4,Kansas,73,64,2006
+6,Indiana,87,11,San Diego State,83,64,2006
+3,Gonzaga,79,14,Xavier,75,64,2006
+10,Alabama,90,7,Marquette,85,64,2006
+2,UCLA,78,15,Belmont,44,64,2006
+1,UConn,87,8,Kentucky,83,32,2006
+5,Washington,67,4,Illinois,64,32,2006
+11,George Mason,65,3,North Carolina,60,32,2006
+7,Wichita State,80,2,Tennessee,73,32,2006
+1,Villanova,82,8,Arizona,78,32,2006
+4,Boston College,69,12,Montana,56,32,2006
+3,Florida,82,11,Wisconsin-Milwaukee,60,32,2006
+7,Georgetown,70,2,Ohio State,52,32,2006
+1,Duke,74,8,George Washington,61,32,2006
+4,LSU,58,12,Texas A&M,57,32,2006
+6,West Virginia,67,14,Northwestern State,54,32,2006
+2,Texas,75,10,NC State,54,32,2006
+1,Memphis,72,9,Bucknell,56,32,2006
+13,Bradley,72,5,Pittsburgh,66,32,2006
+3,Gonzaga,90,6,Indiana,80,32,2006
+2,UCLA,62,10,Alabama,59,32,2006
+1,UConn,98,5,Washington,92,16,2006
+11,George Mason,63,7,Wichita State,55,16,2006
+1,Villanova,60,4,Boston College,59,16,2006
+3,Florida,57,7,Georgetown,53,16,2006
+4,LSU,62,1,Duke,54,16,2006
+2,Texas,74,6,West Virginia,71,16,2006
+1,Memphis,80,13,Bradley,64,16,2006
+2,UCLA,73,3,Gonzaga,71,16,2006
+11,George Mason,86,1,UConn,84,8,2006
+3,Florida,75,1,Villanova,62,8,2006
+4,LSU,70,2,Texas,60,8,2006
+2,UCLA,50,1,Memphis,45,8,2006
+2,UCLA,59,4,LSU,45,4,2006
+3,Florida,73,11,George Mason,58,4,2006
+3,Florida,73,2,UCLA,57,2,2006
+16,Niagara,77,16,Florida A&M,69,0,2007
+1,North Carolina,86,16,Eastern Kentucky,65,64,2007
+9,Michigan State,61,8,Marquette,49,64,2007
+5,USC,77,12,Arkansas,60,64,2007
+4,Texas,79,13,New Mexico State,67,64,2007
+6,Vanderbilt,77,11,George Washington,44,64,2007
+3,Washington State,70,14,Oral Roberts,54,64,2007
+7,Boston College,84,10,Texas Tech,75,64,2007
+2,Georgetown,80,15,Belmont,55,64,2007
+1,Florida,112,16,Jackson State,69,64,2007
+9,Purdue,72,8,Arizona,63,64,2007
+5,Butler,57,12,Old Dominion,46,64,2007
+4,Maryland,82,13,Davidson,70,64,2007
+11,Winthrop,74,6,Notre Dame,64,64,2007
+3,Oregon,58,14,Miami (Ohio),56,64,2007
+7,UNLV,67,10,Georgia Tech,63,64,2007
+2,Wisconsin,76,15,Texas A&M-Corpus Christi,63,64,2007
+1,Ohio State,78,16,Central Connecticut State,57,64,2007
+9,Xavier,79,8,BYU,77,64,2007
+5,Tennessee,121,12,Long Beach State,86,64,2007
+4,Virginia,84,13,Albany,57,64,2007
+6,Louisville,78,11,Stanford,58,64,2007
+3,Texas A&M,68,14,Penn,52,64,2007
+7,Nevada,77,10,Creighton,71,64,2007
+2,Memphis,73,15,North Texas,58,64,2007
+1,Kansas,107,16,Niagara,67,64,2007
+8,Kentucky,67,9,Villanova,58,64,2007
+5,Virginia Tech,54,12,Illinois,52,64,2007
+4,Southern Illinois,61,13,Holy Cross,51,64,2007
+11,VCU,79,6,Duke,77,64,2007
+3,Pittsburgh,79,14,Wright State,58,64,2007
+7,Indiana,70,10,Gonzaga,57,64,2007
+2,UCLA,70,15,Weber State,42,64,2007
+1,North Carolina,81,9,Michigan State,67,32,2007
+5,USC,87,4,Texas,68,32,2007
+6,Vanderbilt,78,3,Washington State,74,32,2007
+2,Georgetown,62,7,Boston College,55,32,2007
+1,Florida,74,9,Purdue,67,32,2007
+5,Butler,62,4,Maryland,59,32,2007
+3,Oregon,75,11,Winthrop,61,32,2007
+7,UNLV,74,2,Wisconsin,68,32,2007
+1,Ohio State,78,9,Xavier,71,32,2007
+5,Tennessee,77,4,Virginia,74,32,2007
+3,Texas A&M,72,6,Louisville,69,32,2007
+2,Memphis,78,7,Nevada,62,32,2007
+1,Kansas,88,8,Kentucky,76,32,2007
+4,Southern Illinois,63,5,Virginia Tech,48,32,2007
+3,Pittsburgh,84,11,VCU,79,32,2007
+2,UCLA,54,7,Indiana,49,32,2007
+1,North Carolina,74,5,USC,64,16,2007
+2,Georgetown,66,6,Vanderbilt,65,16,2007
+1,Florida,65,5,Butler,57,16,2007
+3,Oregon,76,7,UNLV,72,16,2007
+1,Ohio State,85,5,Tennessee,84,16,2007
+2,Memphis,65,3,Texas A&M,64,16,2007
+1,Kansas,61,4,Southern Illinois,58,16,2007
+2,UCLA,64,3,Pittsburgh,55,16,2007
+2,Georgetown,96,1,North Carolina,84,8,2007
+1,Florida,85,3,Oregon,77,8,2007
+1,Ohio State,92,2,Memphis,76,8,2007
+2,UCLA,68,1,Kansas,55,8,2007
+1,Florida,76,2,UCLA,66,4,2007
+1,Ohio State,67,2,Georgetown,60,4,2007
+1,Florida,84,1,Ohio State,75,2,2007
+16,Mount St. Mary's,69,16,Coppin State,60,0,2008
+1,North Carolina,113,16,Mount St. Mary's,74,64,2008
+9,Arkansas,86,8,Indiana,72,64,2008
+5,Notre Dame,68,12,George Mason,50,64,2008
+4,Washington State,71,13,Winthrop,40,64,2008
+6,Oklahoma,72,11,St. Joseph's,64,64,2008
+3,Louisville,79,14,Boise State,61,64,2008
+7,Butler,81,10,South Alabama,61,64,2008
+2,Tennessee,72,15,American,57,64,2008
+1,Kansas,85,16,Portland State,61,64,2008
+8,UNLV,71,9,Kent State,58,64,2008
+12,Villanova,75,5,Clemson,69,64,2008
+13,Siena,83,4,Vanderbilt,62,64,2008
+11,Kansas State,80,6,USC,67,64,2008
+3,Wisconsin,71,14,Cal State Fullerton,56,64,2008
+10,Davidson,82,7,Gonzaga,76,64,2008
+2,Georgetown,66,15,UMBC,47,64,2008
+1,Memphis,87,16,Texas-Arlington,63,64,2008
+8,Mississippi State,76,9,Oregon,69,64,2008
+5,Michigan State,72,12,Temple,61,64,2008
+4,Pittsburgh,82,13,Oral Roberts,63,64,2008
+6,Marquette,74,11,Kentucky,66,64,2008
+3,Stanford,77,14,Cornell,53,64,2008
+7,Miami (FL),78,10,Saint Mary's,64,64,2008
+2,Texas,74,15,Austin Peay,54,64,2008
+1,UCLA,70,16,Mississippi Valley State,29,64,2008
+9,Texas A&M,67,8,BYU,62,64,2008
+12,Western Kentucky,101,5,Drake,99,64,2008
+13,San Diego,70,4,UConn,69,64,2008
+6,Purdue,90,11,Baylor,79,64,2008
+3,Xavier,73,14,Georgia,61,64,2008
+7,West Virginia,75,10,Arizona,65,64,2008
+2,Duke,71,15,Belmont,70,64,2008
+1,North Carolina,108,9,Arkansas,77,32,2008
+4,Washington State,61,5,Notre Dame,41,32,2008
+3,Louisville,78,6,Oklahoma,48,32,2008
+2,Tennessee,76,7,Butler,71,32,2008
+1,Kansas,75,8,UNLV,56,32,2008
+12,Villanova,84,13,Siena,72,32,2008
+3,Wisconsin,72,11,Kansas State,55,32,2008
+10,Davidson,74,2,Georgetown,70,32,2008
+1,Memphis,77,8,Mississippi State,74,32,2008
+5,Michigan State,65,4,Pittsburgh,54,32,2008
+3,Stanford,82,6,Marquette,81,32,2008
+2,Texas,75,7,Miami (FL),72,32,2008
+1,UCLA,51,9,Texas A&M,49,32,2008
+12,Western Kentucky,72,13,San Diego,63,32,2008
+3,Xavier,85,6,Purdue,78,32,2008
+7,West Virginia,73,2,Duke,67,32,2008
+1,North Carolina,68,4,Washington State,47,16,2008
+3,Louisville,79,2,Tennessee,60,16,2008
+1,Kansas,72,12,Villanova,57,16,2008
+10,Davidson,73,3,Wisconsin,56,16,2008
+1,Memphis,92,5,Michigan State,74,16,2008
+2,Texas,82,3,Stanford,62,16,2008
+1,UCLA,88,12,Western Kentucky,78,16,2008
+3,Xavier,79,7,West Virginia,75,16,2008
+1,North Carolina,83,3,Louisville,73,8,2008
+1,Kansas,59,10,Davidson,57,8,2008
+1,Memphis,85,2,Texas,67,8,2008
+1,UCLA,76,3,Xavier,57,8,2008
+1,Kansas,84,1,North Carolina,66,4,2008
+1,Memphis,78,1,UCLA,63,4,2008
+1,Kansas,75,1,Memphis,68,2,2008
+16,Morehead State,58,16,Alabama State,43,0,2009
+1,Pittsburgh,72,16,East Tennessee State,62,64,2009
+8,Oklahoma State,77,9,Tennessee,75,64,2009
+12,Wisconsin,61,5,Florida State,59,64,2009
+4,Xavier,77,13,Portland State,59,64,2009
+6,UCLA,65,11,VCU,64,64,2009
+3,Villanova,80,14,American,67,64,2009
+7,Texas,76,10,Minnesota,62,64,2009
+2,Duke,86,15,Binghamton,62,64,2009
+1,Louisville,74,16,Morehead State,54,64,2009
+9,Siena,74,8,Ohio State,72,64,2009
+12,Arizona,84,5,Utah,71,64,2009
+13,Cleveland State,84,4,Wake Forest,69,64,2009
+11,Dayton,68,6,West Virginia,60,64,2009
+3,Kansas,84,14,North Dakota State,74,64,2009
+10,USC,72,7,Boston College,55,64,2009
+2,Michigan State,77,15,Robert Morris,62,64,2009
+1,North Carolina,101,16,Radford,58,64,2009
+8,LSU,75,9,Butler,71,64,2009
+12,Western Kentucky,76,5,Illinois,72,64,2009
+4,Gonzaga,77,13,Akron,64,64,2009
+6,Arizona State,66,11,Temple,57,64,2009
+3,Syracuse,59,14,Stephen F. Austin,44,64,2009
+10,Michigan,62,7,Clemson,59,64,2009
+2,Oklahoma,82,15,Morgan State,54,64,2009
+1,UConn,103,16,Chattanooga,47,64,2009
+9,Texas A&M,79,8,BYU,66,64,2009
+5,Purdue,61,12,Northern Iowa,56,64,2009
+4,Washington,71,13,Mississippi State,58,64,2009
+6,Marquette,58,11,Utah State,57,64,2009
+3,Missouri,78,14,Cornell,59,64,2009
+10,Maryland,84,7,California,71,64,2009
+2,Memphis,81,15,Cal State Northridge,70,64,2009
+1,Pittsburgh,84,8,Oklahoma State,76,32,2009
+4,Xavier,60,12,Wisconsin,49,32,2009
+3,Villanova,89,6,UCLA,69,32,2009
+2,Duke,74,7,Texas,69,32,2009
+1,Louisville,79,9,Siena,72,32,2009
+12,Arizona,71,13,Cleveland State,57,32,2009
+3,Kansas,60,11,Dayton,43,32,2009
+2,Michigan State,74,10,USC,69,32,2009
+1,North Carolina,84,8,LSU,70,32,2009
+4,Gonzaga,83,12,Western Kentucky,81,32,2009
+3,Syracuse,78,6,Arizona State,67,32,2009
+2,Oklahoma,73,10,Michigan,63,32,2009
+1,UConn,92,9,Texas A&M,66,32,2009
+5,Purdue,76,4,Washington,74,32,2009
+3,Missouri,83,6,Marquette,79,32,2009
+2,Memphis,89,10,Maryland,70,32,2009
+1,Pittsburgh,60,4,Xavier,55,16,2009
+3,Villanova,77,2,Duke,54,16,2009
+1,Louisville,103,12,Arizona,64,16,2009
+2,Michigan State,67,3,Kansas,62,16,2009
+1,North Carolina,98,4,Gonzaga,77,16,2009
+2,Oklahoma,84,3,Syracuse,71,16,2009
+1,UConn,72,5,Purdue,60,16,2009
+3,Missouri,102,2,Memphis,91,16,2009
+3,Villanova,78,1,Pittsburgh,76,8,2009
+2,Michigan State,64,1,Louisville,52,8,2009
+1,North Carolina,72,2,Oklahoma,60,8,2009
+1,UConn,82,3,Missouri,75,8,2009
+2,Michigan State,82,1,UConn,73,4,2009
+1,North Carolina,83,3,Villanova,69,4,2009
+1,North Carolina,89,2,Michigan State,72,2,2009
+16,Arkansas-Pine Bluff,61,16,Winthrop,44,0,2010
+1,Kentucky,100,16,East Tennessee State,71,64,2010
+2,West Virginia,77,15,Morgan State,50,64,2010
+3,New Mexico,62,14,Montana,57,64,2010
+4,Wisconsin,53,13,Wofford,49,64,2010
+12,Cornell,78,5,Temple,65,64,2010
+11,Washington,80,6,Marquette,78,64,2010
+10,Missouri,86,7,Clemson,78,64,2010
+9,Wake Forest,81,8,Texas,80,64,2010
+1,Syracuse,79,16,Vermont,56,64,2010
+2,Kansas State,82,15,North Texas,62,64,2010
+3,Pittsburgh,89,14,Oakland,66,64,2010
+13,Murray State,66,4,Vanderbilt,65,64,2010
+5,Butler,77,12,UTEP,59,64,2010
+6,Xavier,65,11,Minnesota,54,64,2010
+7,BYU,99,10,Florida,92,64,2010
+8,Gonzaga,67,9,Florida State,60,64,2010
+1,Duke,73,16,Arkansas-Pine Bluff,44,64,2010
+2,Villanova,73,15,Robert Morris,70,64,2010
+3,Baylor,68,14,Sam Houston State,59,64,2010
+4,Purdue,72,13,Siena,64,64,2010
+5,Texas A&M,69,12,Utah State,53,64,2010
+11,Old Dominion,51,6,Notre Dame,50,64,2010
+10,Saint Mary's,80,7,Richmond,71,64,2010
+8,California,77,9,Louisville,62,64,2010
+1,Kansas,90,16,Lehigh,74,64,2010
+2,Ohio State,68,15,UC Santa Barbara,51,64,2010
+14,Ohio,97,3,Georgetown,84,64,2010
+4,Maryland,89,13,Houston,77,64,2010
+5,Michigan State,70,12,New Mexico State,67,64,2010
+6,Tennessee,62,11,San Diego State,59,64,2010
+10,Georgia Tech,64,7,Oklahoma State,59,64,2010
+9,Northern Iowa,69,8,UNLV,66,64,2010
+1,Kentucky,90,9,Wake Forest,60,32,2010
+2,West Virginia,68,10,Missouri,59,32,2010
+11,Washington,82,3,New Mexico,64,32,2010
+12,Cornell,87,4,Wisconsin,69,32,2010
+1,Syracuse,87,8,Gonzaga,65,32,2010
+2,Kansas State,84,7,BYU,72,32,2010
+6,Xavier,71,3,Pittsburgh,68,32,2010
+5,Butler,54,13,Murray State,52,32,2010
+1,Duke,68,8,California,53,32,2010
+10,Saint Mary's,75,2,Villanova,68,32,2010
+3,Baylor,76,11,Old Dominion,68,32,2010
+4,Purdue,63,5,Texas A&M,61,32,2010
+9,Northern Iowa,69,1,Kansas,67,32,2010
+2,Ohio State,75,10,Georgia Tech,66,32,2010
+6,Tennessee,83,14,Ohio,68,32,2010
+5,Michigan State,85,4,Maryland,83,32,2010
+1,Kentucky,62,12,Cornell,45,16,2010
+2,West Virginia,69,11,Washington,56,16,2010
+5,Butler,63,1,Syracuse,59,16,2010
+2,Kansas State,101,6,Xavier,96,16,2010
+1,Duke,70,4,Purdue,57,16,2010
+3,Baylor,72,10,Saint Mary's,49,16,2010
+5,Michigan State,59,9,Northern Iowa,52,16,2010
+6,Tennessee,76,2,Ohio State,73,16,2010
+2,West Virginia,73,1,Kentucky,66,8,2010
+5,Butler,63,2,Kansas State,56,8,2010
+1,Duke,78,3,Baylor,71,8,2010
+5,Michigan State,70,6,Tennessee,69,8,2010
+1,Duke,78,2,West Virginia,57,4,2010
+5,Butler,52,5,Michigan State,50,4,2010
+1,Duke,61,5,Butler,59,2,2010
+16,UNC Asheville,81,16,Arkansas-Little Rock,77,0,2011
+12,Clemson,70,12,UAB,52,0,2011
+16,UTSA,70,16,Alabama State,61,0,2011
+11,VCU,59,11,USC,46,0,2011
+1,Ohio State,75,16,UTSA,46,64,2011
+2,North Carolina,102,15,Long Island,87,64,2011
+3,Syracuse,77,14,Indiana State,60,64,2011
+4,Kentucky,59,13,Princeton,57,64,2011
+5,West Virginia,84,12,Clemson,76,64,2011
+11,Marquette,66,6,Xavier,55,64,2011
+7,Washington,68,10,Georgia,65,64,2011
+8,George Mason,61,9,Villanova,57,64,2011
+1,Duke,87,16,Hampton,45,64,2011
+2,San Diego State,68,15,Northern Colorado,50,64,2011
+3,UConn,81,14,Bucknell,52,64,2011
+4,Texas,85,13,Oakland,81,64,2011
+5,Arizona,77,12,Memphis,75,64,2011
+6,Cincinnati,78,11,Missouri,63,64,2011
+7,Temple,66,10,Penn State,64,64,2011
+8,Michigan,75,9,Tennessee,45,64,2011
+1,Kansas,72,16,Boston University,53,64,2011
+2,Notre Dame,69,15,Akron,56,64,2011
+3,Purdue,65,14,Saint Peter's,43,64,2011
+13,Morehead State,62,4,Louisville,61,64,2011
+12,Richmond,69,5,Vanderbilt,66,64,2011
+11,VCU,74,6,Georgetown,56,64,2011
+10,Florida State,57,7,Texas A&M,50,64,2011
+9,Illinois,73,8,UNLV,62,64,2011
+1,Pittsburgh,74,16,UNC Asheville,51,64,2011
+2,Florida,79,15,UC Santa Barbara,51,64,2011
+3,BYU,74,14,Wofford,66,64,2011
+4,Wisconsin,72,13,Belmont,58,64,2011
+5,Kansas State,73,12,Utah State,68,64,2011
+11,Gonzaga,86,6,St. John's,71,64,2011
+7,UCLA,78,10,Michigan State,76,64,2011
+8,Butler,60,9,Old Dominion,58,64,2011
+1,Ohio State,98,8,George Mason,66,32,2011
+2,North Carolina,86,7,Washington,83,32,2011
+11,Marquette,66,3,Syracuse,62,32,2011
+4,Kentucky,71,5,West Virginia,63,32,2011
+1,Duke,73,8,Michigan,71,32,2011
+2,San Diego State,71,7,Temple,64,32,2011
+3,UConn,69,6,Cincinnati,58,32,2011
+5,Arizona,70,4,Texas,69,32,2011
+1,Kansas,73,9,Illinois,59,32,2011
+10,Florida State,71,2,Notre Dame,57,32,2011
+11,VCU,94,3,Purdue,76,32,2011
+12,Richmond,65,13,Morehead State,48,32,2011
+8,Butler,71,1,Pittsburgh,70,32,2011
+2,Florida,73,7,UCLA,65,32,2011
+3,BYU,89,11,Gonzaga,67,32,2011
+4,Wisconsin,70,5,Kansas State,65,32,2011
+4,Kentucky,62,1,Ohio State,60,16,2011
+2,North Carolina,81,11,Marquette,63,16,2011
+5,Arizona,93,1,Duke,77,16,2011
+3,UConn,74,2,San Diego State,67,16,2011
+1,Kansas,77,12,Richmond,57,16,2011
+11,VCU,72,10,Florida State,71,16,2011
+8,Butler,61,4,Wisconsin,54,16,2011
+2,Florida,83,3,BYU,74,16,2011
+4,Kentucky,76,2,North Carolina,69,8,2011
+3,UConn,65,5,Arizona,63,8,2011
+11,VCU,71,1,Kansas,61,8,2011
+8,Butler,74,2,Florida,71,8,2011
+3,UConn,56,4,Kentucky,55,4,2011
+8,Butler,70,11,VCU,62,4,2011
+3,UConn,53,8,Butler,41,2,2011
+16,Western Kentucky,59,16,Mississippi Valley State,58,0,2012
+14,BYU,78,14,Iona,72,0,2012
+16,Vermont,71,16,Lamar,59,0,2012
+12,South Florida,65,12,California,54,0,2012
+1,Syracuse,72,16,UNC Asheville,65,64,2012
+2,Ohio State,78,15,Loyola (Md.),59,64,2012
+3,Florida State,66,14,St. Bonaventure,63,64,2012
+4,Wisconsin,73,13,Montana,49,64,2012
+5,Vanderbilt,79,12,Harvard,70,64,2012
+6,Cincinnati,65,11,Texas,59,64,2012
+7,Gonzaga,77,10,West Virginia,54,64,2012
+8,Kansas State,70,9,Southern Miss,64,64,2012
+1,Michigan State,89,16,Long Island,67,64,2012
+15,Norfolk State,86,2,Missouri,84,64,2012
+3,Marquette,88,14,BYU,68,64,2012
+4,Louisville,69,13,Davidson,62,64,2012
+5,New Mexico,75,12,Long Beach State,68,64,2012
+6,Murray State,58,11,Colorado State,41,64,2012
+7,Florida,71,10,Virginia,45,64,2012
+9,Saint Louis,61,8,Memphis,54,64,2012
+1,Kentucky,81,16,Western Kentucky,66,64,2012
+15,Lehigh,75,2,Duke,70,64,2012
+3,Baylor,68,14,South Dakota State,60,64,2012
+4,Indiana,79,13,New Mexico State,66,64,2012
+12,VCU,62,5,Wichita State,59,64,2012
+11,Colorado,68,6,UNLV,64,64,2012
+10,Xavier,67,7,Notre Dame,63,64,2012
+8,Iowa State,77,9,UConn,64,64,2012
+1,North Carolina,77,16,Vermont,58,64,2012
+2,Kansas,65,15,Detroit,50,64,2012
+3,Georgetown,74,14,Belmont,59,64,2012
+13,Ohio,65,4,Michigan,60,64,2012
+12,South Florida,58,5,Temple,44,64,2012
+11,NC State,79,6,San Diego State,65,64,2012
+10,Purdue,72,7,Saint Mary's,69,64,2012
+8,Creighton,58,9,Alabama,57,64,2012
+1,Syracuse,75,8,Kansas State,59,32,2012
+2,Ohio State,73,7,Gonzaga,66,32,2012
+6,Cincinnati,62,3,Florida State,56,32,2012
+4,Wisconsin,60,5,Vanderbilt,57,32,2012
+1,Michigan State,65,9,Saint Louis,61,32,2012
+7,Florida,84,15,Norfolk State,50,32,2012
+3,Marquette,62,6,Murray State,53,32,2012
+4,Louisville,59,5,New Mexico,56,32,2012
+1,Kentucky,87,8,Iowa State,71,32,2012
+10,Xavier,70,15,Lehigh,58,32,2012
+3,Baylor,80,11,Colorado,63,32,2012
+4,Indiana,63,12,VCU,61,32,2012
+1,North Carolina,87,8,Creighton,73,32,2012
+2,Kansas,63,10,Purdue,60,32,2012
+11,NC State,66,3,Georgetown,63,32,2012
+13,Ohio,62,12,South Florida,56,32,2012
+1,Syracuse,64,4,Wisconsin,63,16,2012
+2,Ohio State,81,6,Cincinnati,66,16,2012
+4,Louisville,57,1,Michigan State,44,16,2012
+7,Florida,68,3,Marquette,58,16,2012
+1,Kentucky,102,4,Indiana,90,16,2012
+3,Baylor,75,10,Xavier,70,16,2012
+1,North Carolina,73,13,Ohio,65,16,2012
+2,Kansas,60,11,NC State,57,16,2012
+2,Ohio State,77,1,Syracuse,70,8,2012
+4,Louisville,72,7,Florida,68,8,2012
+1,Kentucky,82,3,Baylor,70,8,2012
+2,Kansas,80,1,North Carolina,67,8,2012
+1,Kentucky,69,4,Louisville,61,4,2012
+2,Kansas,64,2,Ohio State,62,4,2012
+1,Kentucky,67,2,Kansas,59,2,2012
+16,North Carolina A&T,73,16,Liberty,72,0,2013
+11,Saint Mary's,67,11,Middle Tennessee,54,0,2013
+16,James Madison,68,16,Long Island,55,0,2013
+13,La Salle,80,13,Boise State,71,0,2013
+1,Louisville,79,16,North Carolina A&T,48,64,2013
+2,Duke,73,15,Albany,61,64,2013
+3,Michigan State,65,14,Valparaiso,54,64,2013
+4,Saint Louis,64,13,New Mexico State,44,64,2013
+12,Oregon,68,5,Oklahoma State,55,64,2013
+6,Memphis,54,11,Saint Mary's,52,64,2013
+7,Creighton,67,10,Cincinnati,63,64,2013
+8,Colorado State,84,9,Missouri,72,64,2013
+1,Gonzaga,64,16,Southern,58,64,2013
+2,Ohio State,95,15,Iona,70,64,2013
+14,Harvard,68,3,New Mexico,62,64,2013
+13,La Salle,63,4,Kansas State,61,64,2013
+12,Ole Miss,57,5,Wisconsin,46,64,2013
+6,Arizona,81,11,Belmont,64,64,2013
+10,Iowa State,76,7,Notre Dame,58,64,2013
+9,Wichita State,73,8,Pittsburgh,55,64,2013
+1,Indiana,83,16,James Madison,62,64,2013
+2,Miami (Fla.),78,15,Pacific,49,64,2013
+3,Marquette,59,14,Davidson,58,64,2013
+4,Syracuse,81,13,Montana,34,64,2013
+12,California,64,5,UNLV,61,64,2013
+6,Butler,68,11,Bucknell,56,64,2013
+7,Illinois,57,10,Colorado,49,64,2013
+9,Temple,76,8,NC State,72,64,2013
+1,Kansas,64,16,Western Kentucky,57,64,2013
+15,Florida Gulf Coast,78,2,Georgetown,68,64,2013
+3,Florida,79,14,Northwestern State,47,64,2013
+4,Michigan,71,13,South Dakota State,56,64,2013
+5,VCU,88,12,Akron,42,64,2013
+11,Minnesota,83,6,UCLA,63,64,2013
+7,San Diego State,70,10,Oklahoma,55,64,2013
+8,North Carolina,78,9,Villanova,71,64,2013
+1,Louisville,82,8,Colorado State,56,32,2013
+2,Duke,66,7,Creighton,50,32,2013
+3,Michigan State,70,6,Memphis,48,32,2013
+12,Oregon,74,4,Saint Louis,57,32,2013
+9,Wichita State,76,1,Gonzaga,70,32,2013
+2,Ohio State,78,10,Iowa State,75,32,2013
+6,Arizona,74,14,Harvard,51,32,2013
+13,La Salle,76,12,Ole Miss,74,32,2013
+1,Indiana,58,9,Temple,52,32,2013
+2,Miami (Fla.),63,7,Illinois,59,32,2013
+3,Marquette,74,6,Butler,72,32,2013
+4,Syracuse,66,12,California,60,32,2013
+1,Kansas,70,8,North Carolina,58,32,2013
+15,Florida Gulf Coast,81,7,San Diego State,71,32,2013
+3,Florida,78,11,Minnesota,64,32,2013
+4,Michigan,78,5,VCU,53,32,2013
+1,Louisville,77,12,Oregon,69,16,2013
+2,Duke,71,3,Michigan State,61,16,2013
+9,Wichita State,72,13,La Salle,58,16,2013
+2,Ohio State,73,6,Arizona,70,16,2013
+4,Syracuse,61,1,Indiana,50,16,2013
+3,Marquette,71,2,Miami (Fla.),61,16,2013
+4,Michigan,87,1,Kansas,85,16,2013
+3,Florida,62,15,Florida Gulf Coast,50,16,2013
+1,Louisville,85,2,Duke,63,8,2013
+9,Wichita State,70,2,Ohio State,66,8,2013
+4,Syracuse,55,3,Marquette,39,8,2013
+4,Michigan,79,3,Florida,59,8,2013
+1,Louisville,72,9,Wichita State,68,4,2013
+4,Michigan,61,4,Syracuse,56,4,2013
+1,Louisville,82,4,Michigan,76,2,2013
+16,Albany,71,16,Mount St. Mary's,64,0,2014
+16,Cal Poly,81,16,Texas Southern,69,0,2014
+12,NC State,74,12,Xavier,59,0,2014
+11,Tennessee,78,11,Iowa,65,0,2014
+1,Wichita State,64,16,Cal Poly,37,64,2014
+2,Michigan,57,15,Wofford,40,64,2014
+14,Mercer,78,3,Duke,71,64,2014
+4,Louisville,71,13,Manhattan,64,64,2014
+5,Saint Louis,83,12,NC State,80,64,2014
+11,Tennessee,86,6,UMass,67,64,2014
+7,Texas,87,10,Arizona State,85,64,2014
+8,Kentucky,56,9,Kansas State,49,64,2014
+1,Arizona,68,16,Weber State,59,64,2014
+2,Wisconsin,75,15,American,35,64,2014
+3,Creighton,76,14,Louisiana,66,64,2014
+4,San Diego State,73,13,New Mexico State,69,64,2014
+12,North Dakota State,80,5,Oklahoma,75,64,2014
+6,Baylor,74,11,Nebraska,60,64,2014
+7,Oregon,87,10,BYU,68,64,2014
+8,Gonzaga,85,9,Oklahoma State,77,64,2014
+1,Virginia,70,16,Coastal Carolina,59,64,2014
+2,Villanova,73,15,Milwaukee,53,64,2014
+3,Iowa State,93,14,North Carolina Central,75,64,2014
+4,Michigan State,93,13,Delaware,78,64,2014
+12,Harvard,61,5,Cincinnati,57,64,2014
+6,North Carolina,79,11,Providence,77,64,2014
+7,UConn,89,10,Saint Joseph's,81,64,2014
+8,Memphis,71,9,George Washington,66,64,2014
+1,Florida,67,16,Albany,55,64,2014
+2,Kansas,80,15,Eastern Kentucky,69,64,2014
+3,Syracuse,77,14,Western Michigan,53,64,2014
+4,UCLA,76,13,Tulsa,59,64,2014
+12,Stephen F. Austin,77,5,VCU,75,64,2014
+11,Dayton,60,6,Ohio State,59,64,2014
+10,Stanford,58,7,New Mexico,53,64,2014
+9,Pittsburgh,77,8,Colorado,48,64,2014
+8,Kentucky,78,1,Wichita State,76,32,2014
+2,Michigan,79,7,Texas,65,32,2014
+11,Tennessee,83,14,Mercer,63,32,2014
+4,Louisville,66,5,Saint Louis,51,32,2014
+1,Arizona,84,8,Gonzaga,61,32,2014
+2,Wisconsin,85,7,Oregon,77,32,2014
+6,Baylor,85,3,Creighton,55,32,2014
+4,San Diego State,63,12,North Dakota State,44,32,2014
+1,Virginia,78,8,Memphis,60,32,2014
+7,UConn,77,7,Villanova,65,32,2014
+6,Iowa State,85,6,North Carolina,83,32,2014
+4,Michigan State,80,12,Harvard,73,32,2014
+1,Florida,61,9,Pittsburgh,45,32,2014
+10,Stanford,60,2,Kansas,57,32,2014
+11,Dayton,55,3,Syracuse,53,32,2014
+4,UCLA,77,12,Stephen F. Austin,65,32,2014
+8,Kentucky,74,4,Louisville,69,16,2014
+2,Michigan,73,11,Tennessee,71,16,2014
+1,Arizona,70,4,San Diego State,64,16,2014
+2,Wisconsin,69,6,Baylor,52,16,2014
+4,Michigan State,61,1,Virginia,59,16,2014
+7,UConn,81,3,Iowa State,76,16,2014
+1,Florida,79,4,UCLA,68,16,2014
+11,Dayton,82,10,Stanford,72,16,2014
+8,Kentucky,75,2,Michigan,72,8,2014
+2,Wisconsin,64,1,Arizona,63,8,2014
+7,UConn,60,4,Michigan State,54,8,2014
+1,Florida,62,11,Dayton,52,8,2014
+7,UConn,63,1,Florida,53,4,2014
+8,Kentucky,74,2,Wisconsin,73,4,2014
+7,UConn,60,8,Kentucky,54,2,2014
+11,Dayton,56,11,Boise State,55,0,2015
+16,Robert Morris,81,16,North Florida,77,0,2015
+11,Ole Miss,94,11,BYU,90,0,2015
+16,Hampton,74,16,Manhattan,64,0,2015
+1,Kentucky,79,16,Hampton,56,64,2015
+2,Kansas,75,15,New Mexico State,56,64,2015
+3,Notre Dame,69,14,Northeastern,65,64,2015
+4,Maryland,65,13,Valparaiso,62,64,2015
+5,West Virginia,68,12,Buffalo,62,64,2015
+6,Butler,56,11,Texas,48,64,2015
+7,Wichita State,81,10,Indiana,76,64,2015
+8,Cincinnati,66,9,Purdue,65,64,2015
+1,Wisconsin,86,16,Coastal Carolina,72,64,2015
+2,Arizona,93,15,Texas Southern,72,64,2015
+14,Georgia State,57,3,Baylor,56,64,2015
+4,North Carolina,67,13,Harvard,65,64,2015
+5,Arkansas,56,12,Wofford,53,64,2015
+6,Xavier,76,11,Ole Miss,57,64,2015
+10,Ohio State,75,7,VCU,72,64,2015
+8,Oregon,79,9,Oklahoma State,73,64,2015
+1,Villanova,93,16,Lafayette,52,64,2015
+2,Virginia,79,15,Belmont,67,64,2015
+3,Oklahoma,69,14,Albany,60,64,2015
+4,Louisville,57,13,UC Irvine,55,64,2015
+5,Northern Iowa,71,12,Wyoming,54,64,2015
+11,Dayton,66,6,Providence,53,64,2015
+7,Michigan State,70,10,Georgia,63,64,2015
+8,NC State,66,9,LSU,65,64,2015
+1,Duke,85,16,Robert Morris,56,64,2015
+2,Gonzaga,86,15,North Dakota State,76,64,2015
+14,UAB,60,3,Iowa State,59,64,2015
+4,Georgetown,84,13,Eastern Washington,74,64,2015
+5,Utah,57,12,Stephen F. Austin,50,64,2015
+11,UCLA,60,6,SMU,59,64,2015
+7,Iowa,83,10,Davidson,52,64,2015
+8,San Diego State,76,9,St. John's,64,64,2015
+1,Kentucky,64,8,Cincinnati,51,32,2015
+7,Wichita State,78,2,Kansas,65,32,2015
+3,Notre Dame,67,6,Butler,64,32,2015
+5,West Virginia,69,4,Maryland,59,32,2015
+1,Wisconsin,72,8,Oregon,65,32,2015
+2,Arizona,73,10,Ohio State,58,32,2015
+6,Xavier,75,14,Georgia State,67,32,2015
+4,North Carolina,87,5,Arkansas,78,32,2015
+8,NC State,71,1,Villanova,68,32,2015
+7,Michigan State,60,2,Virginia,54,32,2015
+3,Oklahoma,72,11,Dayton,66,32,2015
+4,Louisville,66,5,Northern Iowa,53,32,2015
+1,Duke,68,8,San Diego State,49,32,2015
+2,Gonzaga,87,7,Iowa,68,32,2015
+11,UCLA,92,14,UAB,75,32,2015
+5,Utah,75,4,Georgetown,64,32,2015
+1,Kentucky,78,5,West Virginia,39,16,2015
+3,Notre Dame,81,7,Wichita State,70,16,2015
+1,Wisconsin,79,4,North Carolina,72,16,2015
+2,Arizona,68,6,Xavier,60,16,2015
+4,Louisville,75,8,NC State,65,16,2015
+7,Michigan State,62,3,Oklahoma,58,16,2015
+1,Duke,63,5,Utah,57,16,2015
+2,Gonzaga,74,11,UCLA,62,16,2015
+1,Kentucky,68,3,Notre Dame,66,8,2015
+1,Wisconsin,85,2,Arizona,78,8,2015
+7,Michigan State,76,4,Louisville,70,8,2015
+1,Duke,66,2,Gonzaga,52,8,2015
+1,Duke,81,7,Michigan State,61,4,2015
+1,Wisconsin,71,1,Kentucky,64,4,2015
+1,Duke,68,1,Wisconsin,63,2,2015
+16,Florida Gulf Coast,96,16,Fairleigh Dickinson,65,0,2016
+11,Michigan,67,11,Tulsa,62,0,2016
+16,Holy Cross,59,16,Southern,55,0,2016
+11,Wichita State,70,11,Vanderbilt,50,0,2016
+1,North Carolina,83,16,Florida Gulf Coast,67,64,2016
+2,Xavier,71,15,Weber State,53,64,2016
+14,Stephen F. Austin,70,3,West Virginia,56,64,2016
+4,Kentucky,85,13,Stony Brook,57,64,2016
+5,Indiana,99,12,Chattanooga,74,64,2016
+6,Notre Dame,70,11,Michigan,63,64,2016
+7,Wisconsin,47,10,Pittsburgh,43,64,2016
+9,Providence,70,8,Southern California,69,64,2016
+1,Oregon,91,16,Holy Cross,52,64,2016
+2,Oklahoma,82,15,Cal State Bakersfield,68,64,2016
+3,Texas A&M,92,14,Green Bay,65,64,2016
+4,Duke,93,13,UNC Wilmington,85,64,2016
+12,Yale,79,5,Baylor,75,64,2016
+11,Northern Iowa,75,6,Texas,72,64,2016
+10,VCU,75,7,Oregon State,67,64,2016
+8,Saint Joseph's,78,9,Cincinnati,76,64,2016
+1,Kansas,105,16,Austin Peay,79,64,2016
+2,Villanova,86,15,UNC Asheville,56,64,2016
+3,Miami (Fla.),79,14,Buffalo,72,64,2016
+13,Hawai'i,77,4,California,66,64,2016
+5,Maryland,79,12,South Dakota State,74,64,2016
+11,Wichita State,65,6,Arizona,55,64,2016
+7,Iowa,72,10,Temple,70,64,2016
+9,UConn,74,8,Colorado,67,64,2016
+1,Virginia,81,16,Hampton,45,64,2016
+15,Middle Tennessee,90,2,Michigan State,81,64,2016
+3,Utah,80,14,Fresno State,69,64,2016
+4,Iowa State,94,13,Iona,81,64,2016
+12,Little Rock,85,5,Purdue,83,64,2016
+11,Gonzaga,68,6,Seton Hall,52,64,2016
+10,Syracuse,70,7,Dayton,51,64,2016
+9,Butler,71,8,Texas Tech,61,64,2016
+1,North Carolina,85,9,Providence,66,32,2016
+7,Wisconsin,66,2,Xavier,63,32,2016
+5,Indiana,73,4,Kentucky,67,32,2016
+6,Notre Dame,76,14,Stephen F. Austin,75,32,2016
+1,Oregon,69,8,Saint Joseph's,64,32,2016
+2,Oklahoma,85,10,VCU,81,32,2016
+3,Texas A&M,92,11,Northern Iowa,88,32,2016
+4,Duke,71,12,Yale,64,32,2016
+1,Kansas,73,9,UConn,61,32,2016
+2,Villanova,87,7,Iowa,68,32,2016
+3,Miami (Fla.),65,11,Wichita State,57,32,2016
+5,Maryland,73,13,Hawai'i,60,32,2016
+1,Virginia,77,9,Butler,69,32,2016
+11,Gonzaga,82,3,Utah,59,32,2016
+4,Iowa State,78,12,Little Rock,61,32,2016
+10,Syracuse,75,15,Middle Tennessee,50,32,2016
+1,North Carolina,101,5,Indiana,86,16,2016
+6,Notre Dame,61,7,Wisconsin,56,16,2016
+1,Oregon,82,4,Duke,68,16,2016
+2,Oklahoma,77,3,Texas A&M,63,16,2016
+1,Kansas,79,5,Maryland,63,16,2016
+2,Villanova,92,3,Miami (Fla.),69,16,2016
+1,Virginia,84,4,Iowa State,71,16,2016
+10,Syracuse,63,11,Gonzaga,60,16,2016
+1,North Carolina,88,6,Notre Dame,74,8,2016
+2,Oklahoma,80,1,Oregon,68,8,2016
+2,Villanova,64,1,Kansas,59,8,2016
+10,Syracuse,68,1,Virginia,62,8,2016
+1,North Carolina,83,10,Syracuse,66,4,2016
+2,Villanova,95,2,Oklahoma,51,4,2016
+2,Villanova,77,1,North Carolina,74,2,2016
+16,Mount St. Mary's,67,16,New Orleans,66,0,2017
+11,Southern California,75,11,Providence,71,0,2017
+16,UC Davis,67,16,N.C. Central,63,0,2017
+11,Kansas State,95,11,Wake Forest,88,0,2017
+1,Villanova,76,16,Mount St. Mary's,56,64,2017
+2,Duke,87,15,Troy,65,64,2017
+3,Baylor,91,14,New Mexico State,73,64,2017
+4,Florida,80,13,East Tennessee State,65,64,2017
+5,Virginia,76,12,UNC Wilmington,71,64,2017
+11,Southern California,66,6,SMU,65,64,2017
+7,South Carolina,93,10,Marquette,73,64,2017
+8,Wisconsin,84,9,Virginia Tech,74,64,2017
+1,Gonzaga,66,16,South Dakota State,46,64,2017
+2,Arizona,100,15,North Dakota,82,64,2017
+3,Florida State,86,14,Florida Gulf Coast,80,64,2017
+4,West Virginia,86,13,Bucknell,80,64,2017
+5,Notre Dame,60,12,Princeton,58,64,2017
+11,Xavier,76,6,Maryland,65,64,2017
+7,Saint Mary's,85,10,VCU,77,64,2017
+8,Northwestern,68,9,Vanderbilt,66,64,2017
+1,North Carolina,103,16,Texas Southern,64,64,2017
+2,Kentucky,79,15,Northern Kentucky,70,64,2017
+3,UCLA,97,14,Kent State,80,64,2017
+4,Butler,76,13,Winthrop,64,64,2017
+12,Middle Tennessee,81,5,Minnesota,72,64,2017
+6,Cincinnati,75,11,Kansas State,61,64,2017
+10,Wichita State,64,7,Dayton,58,64,2017
+8,Arkansas,77,9,Seton Hall,71,64,2017
+1,Kansas,100,16,UC Davis,62,64,2017
+2,Louisville,78,15,Jacksonville State,63,64,2017
+3,Oregon,93,14,Iona,77,64,2017
+4,Purdue,80,13,Vermont,70,64,2017
+5,Iowa State,84,12,Nevada,73,64,2017
+11,Rhode Island,84,6,Creighton,72,64,2017
+7,Michigan,92,10,Oklahoma State,91,64,2017
+9,Michigan State,78,8,Miami (Fla.),58,64,2017
+8,Wisconsin,65,1,Villanova,62,32,2017
+7,South Carolina,88,2,Duke,81,32,2017
+3,Baylor,82,11,Southern California,78,32,2017
+4,Florida,65,5,Virginia,39,32,2017
+1,Gonzaga,79,8,Northwestern,73,32,2017
+2,Arizona,69,7,Saint Mary's,60,32,2017
+11,Xavier,91,3,Florida State,66,32,2017
+4,West Virginia,83,5,Notre Dame,71,32,2017
+1,North Carolina,72,8,Arkansas,65,32,2017
+2,Kentucky,65,10,Wichita State,62,32,2017
+3,UCLA,79,6,Cincinnati,67,32,2017
+4,Butler,74,12,Middle Tennessee,65,32,2017
+1,Kansas,90,9,Michigan State,70,32,2017
+7,Michigan,73,2,Louisville,69,32,2017
+3,Oregon,75,11,Rhode Island,72,32,2017
+4,Purdue,80,5,Iowa State,76,32,2017
+4,Florida,84,8,Wisconsin,83,16,2017
+7,South Carolina,70,3,Baylor,50,16,2017
+1,Gonzaga,61,4,West Virginia,58,16,2017
+11,Xavier,73,2,Arizona,71,16,2017
+1,North Carolina,92,4,Butler,80,16,2017
+2,Kentucky,86,3,UCLA,75,16,2017
+1,Kansas,98,4,Purdue,66,16,2017
+3,Oregon,69,7,Michigan,68,16,2017
+7,South Carolina,77,4,Florida,70,8,2017
+1,Gonzaga,83,11,Xavier,59,8,2017
+1,North Carolina,75,2,Kentucky,73,8,2017
+3,Oregon,74,1,Kansas,60,8,2017
+1,Gonzaga,77,7,South Carolina,73,4,2017
+1,North Carolina,77,3,Oregon,76,4,2017
+1,North Carolina,71,1,Gonzaga,65,2,2017
+16,Radford,71,16,LIU,61,0,2018
+11,St. Bonaventure,65,11,UCLA,58,0,2018
+16,Texas Southern,64,16,N.C. Central,46,0,2018
+11,Syracuse,60,11,Arizona State,56,0,2018
+1,Villanova,87,16,Radford,61,64,2018
+2,Purdue,74,15,Cal State Fullerton,48,64,2018
+3,Texas Tech,70,14,Stephen F. Austin,60,64,2018
+13,Marshall,81,4,Wichita State,75,64,2018
+5,West Virginia,85,12,Murray State,68,64,2018
+6,Florida,77,11,St. Bonaventure,62,64,2018
+10,Butler,79,7,Arkansas,62,64,2018
+9,Alabama,86,8,Virginia Tech,83,64,2018
+1,Xavier,102,16,Texas Southern,82,64,2018
+2,North Carolina,84,15,Lipscomb,66,64,2018
+3,Michigan,61,14,Montana,47,64,2018
+4,Gonzaga,68,13,UNC Greensboro,64,64,2018
+5,Ohio State,81,12,South Dakota State,73,64,2018
+6,Houston,67,11,San Diego State,65,64,2018
+7,Texas A&M,73,10,Providence,69,64,2018
+9,Florida State,67,8,Missouri,54,64,2018
+16,UMBC,74,1,Virginia,54,64,2018
+2,Cincinnati,68,15,Georgia State,53,64,2018
+3,Tennessee,73,14,Wright State,47,64,2018
+13,Buffalo,89,4,Arizona,68,64,2018
+5,Kentucky,78,12,Davidson,73,64,2018
+11,Loyola Chicago,64,6,Miami (Fla.),62,64,2018
+7,Nevada,87,10,Texas,83,64,2018
+9,Kansas State,69,8,Creighton,59,64,2018
+1,Kansas,76,16,Pennsylvania,60,64,2018
+2,Duke,89,15,Iona,67,64,2018
+3,Michigan State,82,14,Bucknell,78,64,2018
+4,Auburn,62,13,College of Charleston,58,64,2018
+5,Clemson,79,12,New Mexico State,68,64,2018
+11,Syracuse,57,6,TCU,52,64,2018
+7,Rhode Island,83,10,Oklahoma,78,64,2018
+8,Seton Hall,94,9,NC State,83,64,2018
+1,Villanova,81,9,Alabama,58,32,2018
+2,Purdue,76,10,Butler,73,32,2018
+3,Texas Tech,69,6,Florida,66,32,2018
+5,West Virginia,94,13,Marshall,71,32,2018
+9,Florida State,75,1,Xavier,70,32,2018
+7,Texas A&M,86,2,North Carolina,65,32,2018
+3,Michigan,64,6,Houston,63,32,2018
+4,Gonzaga,90,5,Ohio State,84,32,2018
+9,Kansas State,50,16,UMBC,43,32,2018
+7,Nevada,75,2,Cincinnati,73,32,2018
+11,Loyola Chicago,63,3,Tennessee,62,32,2018
+5,Kentucky,95,13,Buffalo,75,32,2018
+1,Kansas,83,8,Seton Hall,79,32,2018
+2,Duke,87,7,Rhode Island,62,32,2018
+11,Syracuse,55,3,Michigan State,53,32,2018
+5,Clemson,84,4,Auburn,53,32,2018
+1,Villanova,90,5,West Virginia,78,16,2018
+3,Texas Tech,78,2,Purdue,65,16,2018
+9,Florida State,75,4,Gonzaga,60,16,2018
+3,Michigan,99,7,Texas A&M,72,16,2018
+9,Kansas State,61,5,Kentucky,58,16,2018
+11,Loyola Chicago,69,7,Nevada,68,16,2018
+1,Kansas,80,5,Clemson,76,16,2018
+2,Duke,69,11,Syracuse,65,16,2018
+1,Villanova,71,3,Texas Tech,59,8,2018
+3,Michigan,58,9,Florida State,54,8,2018
+11,Loyola Chicago,78,9,Kansas State,62,8,2018
+1,Kansas,85,2,Duke,81,8,2018
+1,Villanova,95,1,Kansas,79,4,2018
+3,Michigan,69,11,Loyola Chicago,57,4,2018
+1,Villanova,79,3,Michigan,62,2,2018
+16,North Dakota State,78,16,N.C. Central,74,0,2019
+11,Belmont,81,11,Temple,70,0,2019
+16,Fairleigh Dickinson,82,16,Prairie View A&M,76,0,2019
+11,Arizona State,74,11,St. John's,65,0,2019
+1,Duke,85,16,North Dakota State,62,64,2019
+2,Michigan State,76,15,Bradley,65,64,2019
+3,LSU,79,14,Yale,74,64,2019
+4,Virginia Tech,66,13,Saint Louis,52,64,2019
+12,Liberty,80,5,Mississippi State,76,64,2019
+6,Maryland,79,11,Belmont,77,64,2019
+10,Minnesota,86,7,Louisville,76,64,2019
+9,UCF,73,8,VCU,58,64,2019
+1,Gonzaga,87,16,Fairleigh Dickinson,49,64,2019
+2,Michigan,74,15,Montana,55,64,2019
+3,Texas Tech,72,14,Northern Kentucky,57,64,2019
+4,Florida State,76,13,Vermont,69,64,2019
+12,Murray State,83,5,Marquette,64,64,2019
+6,Buffalo,91,11,Arizona State,74,64,2019
+10,Florida,70,7,Nevada,61,64,2019
+9,Baylor,78,8,Syracuse,69,64,2019
+1,Virginia,71,16,Gardner-Webb,56,64,2019
+2,Tennessee,77,15,Colgate,70,64,2019
+3,Purdue,61,14,Old Dominion,48,64,2019
+13,UC Irvine,70,4,Kansas State,64,64,2019
+12,Oregon,72,5,Wisconsin,54,64,2019
+6,Villanova,61,11,Saint Mary's,57,64,2019
+10,Iowa,79,7,Cincinnati,72,64,2019
+9,Oklahoma,95,8,Ole Miss,72,64,2019
+1,North Carolina,88,16,Iona,73,64,2019
+2,Kentucky,79,15,Abilene Christian,44,64,2019
+3,Houston,84,14,Georgia State,55,64,2019
+4,Kansas,87,13,Northeastern,53,64,2019
+5,Auburn,78,12,New Mexico State,77,64,2019
+11,Ohio State,62,6,Iowa State,59,64,2019
+7,Wofford,84,10,Seton Hall,68,64,2019
+9,Washington,78,8,Utah State,61,64,2019
+1,Duke,77,9,UCF,76,32,2019
+2,Michigan State,70,10,Minnesota,50,32,2019
+3,LSU,69,6,Maryland,67,32,2019
+4,Virginia Tech,67,12,Liberty,58,32,2019
+1,Gonzaga,83,9,Baylor,71,32,2019
+2,Michigan,64,10,Florida,49,32,2019
+3,Texas Tech,78,6,Buffalo,58,32,2019
+4,Florida State,90,12,Murray State,62,32,2019
+1,Virginia,63,9,Oklahoma,51,32,2019
+2,Tennessee,83,10,Iowa,77,32,2019
+3,Purdue,87,6,Villanova,61,32,2019
+12,Oregon,73,13,UC Irvine,54,32,2019
+1,North Carolina,81,9,Washington,59,32,2019
+2,Kentucky,62,10,Wofford,56,32,2019
+3,Houston,74,11,Ohio State,59,32,2019
+5,Auburn,89,4,Kansas,75,32,2019
+1,Duke,75,4,Virginia Tech,73,16,2019
+2,Michigan State,80,3,LSU,63,16,2019
+1,Gonzaga,72,4,Florida State,58,16,2019
+3,Texas Tech,63,2,Michigan,44,16,2019
+1,Virginia,53,12,Oregon,49,16,2019
+3,Purdue,99,2,Tennessee,94,16,2019
+5,Auburn,97,1,North Carolina,80,16,2019
+2,Kentucky,62,3,Houston,58,16,2019
+2,Michigan State,68,1,Duke,67,8,2019
+3,Texas Tech,75,1,Gonzaga,69,8,2019
+1,Virginia,80,3,Purdue,75,8,2019
+5,Auburn,77,2,Kentucky,71,8,2019
+1,Virginia,63,5,Auburn,62,4,2019
+3,Texas Tech,61,2,Michigan State,51,4,2019
+1,Virginia,85,3,Texas Tech,77,2,2019
+16,Texas Southern,60,16,Mt. St. Mary's,52,0,2021
+16,Norfolk St.,54,16,App. St.,53,0,2021
+11,UCLA,86,11,Michigan St.,80,0,2021
+11,Drake,53,11,Wichita St.,52,0,2021
+1,Illinois,78,16,Drexel,49,64,2021
+8,Loyola Chicago,71,9,Georgia Tech,60,64,2021
+12,Oregon St.,70,5,Tennessee,56,64,2021
+4,Oklahoma St.,69,13,Liberty,60,64,2021
+11,Syracuse,78,6,San Diego St.,62,64,2021
+3,West Virginia,84,14,Morehead St.,67,64,2021
+10,Rutgers,60,7,Clemson,56,64,2021
+2,Houston,87,15,Cleveland St.,56,64,2021
+1,Gonzaga,98,16,Norfolk St.,55,64,2021
+8,Oklahoma,72,9,Missouri,68,64,2021
+5,Creighton,63,12,UCSB,62,64,2021
+13,Ohio,62,4,Virginia,58,64,2021
+6,USC,72,11,Drake,56,64,2021
+3,Kansas,93,14,Eastern Wash.,84,64,2021
+7,Oregon,0,10,VCU,0,64,2021
+2,Iowa,86,15,Grand Canyon,74,64,2021
+1,Michigan,82,16,Texas Southern,66,64,2021
+8,LSU,76,9,St. Bonaventure,61,64,2021
+5,Colorado,96,12,Georgetown,73,64,2021
+4,Florida St.,64,13,UNC Greensboro,54,64,2021
+11,UCLA,73,6,BYU,62,64,2021
+14,Abilene Christian,53,3,Texas,52,64,2021
+10,Maryland,63,7,UConn,54,64,2021
+2,Alabama,68,15,Iona,55,64,2021
+1,Baylor,79,16,Hartford,55,64,2021
+9,Wisconsin,85,8,North Carolina,62,64,2021
+5,Villanova,73,12,Winthrop,63,64,2021
+13,North Texas,78,4,Purdue,69,64,2021
+6,Texas Tech,65,11,Utah St.,53,64,2021
+3,Arkansas,85,14,Colgate,68,64,2021
+7,Florida,75,10,Virginia Tech,70,64,2021
+15,Oral Roberts,75,2,Ohio State,72,64,2021
+8,Loyola Chicago,71,1,Illinois,58,32,2021
+12,Oregon St.,80,4,Oklahoma St.,70,32,2021
+11,Syracuse,75,3,West Virginia,72,32,2021
+2,Houston,63,10,Rutgers,60,32,2021
+1,Gonzaga,87,8,Oklahoma,71,32,2021
+5,Creighton,72,13,Ohio,58,32,2021
+6,USC,85,3,Kansas,51,32,2021
+7,Oregon,95,2,Iowa,80,32,2021
+1,Michigan,86,8,LSU,78,32,2021
+4,Florida St.,71,5,Colorado,53,32,2021
+11,UCLA,67,14,Abilene Christian,47,32,2021
+2,Alabama,96,10,Maryland,77,32,2021
+1,Baylor,76,9,Wisconsin,63,32,2021
+5,Villanova,84,13,North Texas,61,32,2021
+3,Arkansas,68,6,Texas Tech,66,32,2021
+15,Oral Roberts,81,7,Florida,78,32,2021
+12,Oregon St.,65,8,Loyola Chicago,58,16,2021
+2,Houston,62,11,Syracuse,46,16,2021
+1,Gonzaga,83,5,Creighton,65,16,2021
+6,USC,82,7,Oregon,68,16,2021
+1,Michigan,76,4,Florida St.,58,16,2021
+11,UCLA,88,2,Alabama,78,16,2021
+1,Baylor,62,5,Villanova,51,16,2021
+3,Arkansas,72,15,Oral Roberts,70,16,2021
+2,Houston,67,12,Oregon St.,61,8,2021
+1,Gonzaga,85,6,USC,66,8,2021
+11,UCLA,51,1,Michigan,49,8,2021
+1,Baylor,81,3,Arkansas,72,8,2021
+1,Baylor,78,2,Houston,59,4,2021
+1,Gonzaga,93,11,UCLA,90,4,2021
+1,Baylor,86,1,Gonzaga,70,2,2021
+12,Indiana,66,12,Wyoming,58,0,2022
+16,Wright State,93,16,Bryant,82,0,2022
+11,Notre Dame,89,11,Rutgers,87,0,2022
+16,Texas Southern,76,16,Tex. A&M CC,67,0,2022
+1,Kansas,83,16,Texas Southern,56,64,2022
+9,Creighton,72,8,San Diego St.,69,64,2022
+12,Richmond,67,5,Iowa,63,64,2022
+4,Providence,66,13,S. Dakota St.,57,64,2022
+11,Iowa St.,59,6,LSU,54,64,2022
+3,Wisconsin,67,14,Colgate,60,64,2022
+10,Miami (FL),68,7,USC,66,64,2022
+2,Auburn,80,15,Jacksonville St.,61,64,2022
+1,Gonzaga,93,16,Georgia St.,72,64,2022
+9,Memphis,64,8,Boise St.,53,64,2022
+12,New Mexico St.,70,5,UConn,63,64,2022
+4,Arkansas,75,13,Vermont,71,64,2022
+11,Notre Dame,78,6,Alabama,64,64,2022
+3,Texas Tech,97,14,Montana St.,62,64,2022
+7,Michigan St.,74,10,Davidson,73,64,2022
+2,Duke,78,15,Cal St. Fullerton,61,64,2022
+1,Baylor,85,16,Norfolk St.,49,64,2022
+8,North Carolina,95,9,Marquette,63,64,2022
+5,St. Mary’s,82,12,Indiana,53,64,2022
+4,UCLA,57,13,Akron,53,64,2022
+6,Texas,81,11,Virginia Tech,73,64,2022
+3,Purdue,78,14,Yale,56,64,2022
+7,Murray St.,92,10,San Francisco,87,64,2022
+15,St. Peter’s,85,2,Kentucky,79,64,2022
+1,Arizona,87,16,Wright State,70,64,2022
+9,TCU,69,8,Seton Hall,42,64,2022
+5,Houston,82,12,UAB,68,64,2022
+4,Illinois,54,13,Chattanooga,53,64,2022
+11,Michigan,75,6,Colorado St.,63,64,2022
+3,Tennessee,88,14,Longwood,56,64,2022
+7,Ohio St.,54,10,Loyola Chicago,41,64,2022
+2,Villanova,80,15,Delaware,60,64,2022
+1,Kansas,79,9,Creighton,71,32,2022
+4,Providence,79,12,Richmond,51,32,2022
+11,Iowa St.,54,3,Wisconsin,49,32,2022
+10,Miami (FL),79,2,Auburn,61,32,2022
+1,Gonzaga,82,9,Memphis,78,32,2022
+4,Arkansas,53,12,New Mexico St.,48,32,2022
+3,Texas Tech,59,11,Notre Dame,53,32,2022
+2,Duke,85,7,Michigan St.,76,32,2022
+8,North Carolina,93,1,Baylor,86,32,2022
+4,UCLA,72,5,St. Mary’s,56,32,2022
+3,Purdue,81,6,Texas,71,32,2022
+15,St. Peter’s,70,7,Murray St.,60,32,2022
+1,Arizona,85,9,TCU,80,32,2022
+5,Houston,68,4,Illinois,53,32,2022
+11,Michigan,76,3,Tennessee,68,32,2022
+2,Villanova,71,7,Ohio St.,61,32,2022
+1,Kansas,66,4,Providence,61,16,2022
+10,Miami (FL),70,11,Iowa St.,56,16,2022
+4,Arkansas,74,1,Gonzaga,68,16,2022
+2,Duke,78,3,Texas Tech,73,16,2022
+8,North Carolina,73,4,UCLA,66,16,2022
+15,St. Peter’s,67,3,Purdue,64,16,2022
+5,Houston,72,1,Arizona,60,16,2022
+2,Villanova,63,11,Michigan,55,16,2022
+1,Kansas,76,10,Miami (FL),50,8,2022
+2,Duke,78,4,Arkansas,69,8,2022
+8,North Carolina,69,15,St. Peter’s,49,8,2022
+2,Villanova,50,5,Houston,44,8,2022
+8,North Carolina,81,2,Duke,77,4,2022
+1,Kansas,81,2,Villanova,65,4,2022
+1,Kansas,72,8,North Carolina,69,2,2022
+16,FDU,84,16,Texas Southern,61,0,2023
+11,Arizona St.,98,11,Nevada,73,0,2023
+16,Texas A&M - CC,75,16,SE Missouri St.,71,0,2023
+11,Pittsburgh,60,11,Mississippi St.,59,0,2023
+1,Houston,63,16,North Kentucky,52,64,2023
+9,Auburn,83,8,Iowa,75,64,2023
+5,Miami (FL),63,12,Drake,56,64,2023
+4,Indiana,71,13,Kent St.,60,64,2023
+11,Pittsburgh,59,6,Iowa St.,41,64,2023
+3,Xavier,72,14,Kennesaw St.,67,64,2023
+10,Penn St.,76,7,Texas A&M,59,64,2023
+2,Texas,81,15,Colgate,61,64,2023
+1,Kansas,96,16,Howard,68,64,2023
+8,Arkansas,73,9,Illinois,63,64,2023
+5,St. Mary’s,63,12,VCU,51,64,2023
+4,UConn,87,13,Iona,63,64,2023
+6,TCU,72,11,Arizona St.,70,64,2023
+3,Gonzaga,82,14,Grand Canyon,70,64,2023
+7,Northwestern,75,10,Boise St.,67,64,2023
+2,UCLA,86,15,UNC Asheville,53,64,2023
+16,FDU,63,1,Purdue,58,64,2023
+9,FAU,66,8,Memphis,65,64,2023
+5,Duke,74,12,Oral Roberts,51,64,2023
+4,Tennessee,58,13,Louisiana,55,64,2023
+6,Kentucky,61,11,Providence,53,64,2023
+3,Kansas St.,77,14,Montana St.,65,64,2023
+7,Michigan St.,72,10,USC,62,64,2023
+2,Marquette,78,15,Vermont,61,64,2023
+1,Alabama,96,16,Texas A&M - CC,75,64,2023
+8,Maryland,67,9,West Virginia,65,64,2023
+5,San Diego St.,63,12,Col of Charleston,57,64,2023
+13,Furman,68,4,Virginia,67,64,2023
+6,Creighton,72,11,NC State,63,64,2023
+3,Baylor,74,14,UCSB,56,64,2023
+7,Missouri,76,10,Utah St.,65,64,2023
+15,Princeton,59,2,Arizona,55,64,2023
+1,Houston,81,9,Auburn,64,32,2023
+5,Miami (FL),85,4,Indiana,69,32,2023
+3,Xavier,84,11,Pittsburgh,73,32,2023
+2,Texas,71,10,Penn St.,66,32,2023
+8,Arkansas,72,1,Kansas,71,32,2023
+4,UConn,70,5,St. Mary’s,55,32,2023
+3,Gonzaga,84,6,TCU,81,32,2023
+2,UCLA,68,7,Northwestern,63,32,2023
+9,FAU,78,16,FDU,70,32,2023
+4,Tennessee,65,5,Duke,52,32,2023
+3,Kansas St.,75,6,Kentucky,69,32,2023
+7,Michigan St.,69,2,Marquette,60,32,2023
+1,Alabama,73,8,Maryland,51,32,2023
+5,San Diego St.,75,13,Furman,52,32,2023
+6,Creighton,85,3,Baylor,76,32,2023
+15,Princeton,78,7,Missouri,63,32,2023
+5,Miami (FL),89,1,Houston,75,16,2023
+2,Texas,83,3,Xavier,71,16,2023
+4,UConn,88,6,Arkansas,65,16,2023
+3,Gonzaga,79,2,UCLA,76,16,2023
+9,FAU,62,4,Tennessee,55,16,2023
+3,Kansas St.,98,7,Michigan St.,93,16,2023
+5,San Diego St.,71,1,Alabama,64,16,2023
+6,Creighton,86,15,Princeton,75,16,2023
+5,Miami (FL),88,2,Texas,81,8,2023
+4,UConn,82,3,Gonzaga,54,8,2023
+9,FAU,79,3,Kansas St.,76,8,2023
+5,San Diego St.,57,6,Creighton,56,8,2023
+5,San Diego St.,72,9,FAU,71,4,2023
+4,UConn,72,5,Miami (FL),59,4,2023
+4,UConn,76,5,San Diego St.,59,2,2023
+16,Wagner,71,16,Howard,68,0,2024
+10,Colorado State,67,10,Virginia,42,0,2024
+16,Grambling State,88,16,Montana State,81,0,2024
+10,Colorado,60,10,Boise State,53,0,2024
+1,UConn,91,16,Stetson,52,64,2024
+9,Northwestern,77,8,Florida Atlantic,65,64,2024
+5,San Diego State,69,12,UAB,65,64,2024
+13,Yale,78,4,Auburn,76,64,2024
+11,Duquesne,71,6,BYU,67,64,2024
+3,Illinois,85,14,Morehead State,69,64,2024
+7,Washington State,66,10,Drake,61,64,2024
+2,Iowa State,82,15,South Dakota State,65,64,2024
+1,North Carolina,90,16,Wagner,62,64,2024
+9,Michigan State,69,8,Mississippi State,51,64,2024
+12,Grand Canyon,75,5,Saint Mary's,66,64,2024
+4,Alabama,109,13,Charleston,96,64,2024
+6,Clemson,77,11,New Mexico,56,64,2024
+3,Baylor,92,14,Colgate,67,64,2024
+7,Dayton,63,10,Nevada,60,64,2024
+2,Arizona,85,15,Long Beach State,65,64,2024
+1,Houston,86,16,Longwood,46,64,2024
+9,Texas A&M,98,8,Nebraska,83,64,2024
+12,James Madison,72,5,Wisconsin,61,64,2024
+4,Duke,64,13,Vermont,47,64,2024
+11,NC State,80,6,Texas Tech,67,64,2024
+14,Oakland,80,3,Kentucky,76,64,2024
+10,Colorado,102,7,Florida,100,64,2024
+2,Marquette,87,15,Western Kentucky,69,64,2024
+1,Purdue,78,16,Grambling State,50,64,2024
+8,Utah State,88,9,TCU,72,64,2024
+5,Gonzaga,86,12,McNeese,65,64,2024
+4,Kansas,93,13,Samford,89,64,2024
+11,Oregon,87,6,South Carolina,73,64,2024
+3,Creighton,77,14,Akron,60,64,2024
+7,Texas,56,10,Colorado State,44,64,2024
+2,Tennessee,83,15,Saint Peter's,49,64,2024
+1,UConn,75,9,Northwestern,58,32,2024
+5,San Diego State,85,13,Yale,57,32,2024
+3,Illinois,89,11,Duquesne,63,32,2024
+2,Iowa State,67,7,Washington State,56,32,2024
+1,North Carolina,85,9,Michigan State,69,32,2024
+4,Alabama,72,12,Grand Canyon,61,32,2024
+6,Clemson,72,3,Baylor,64,32,2024
+2,Arizona,78,7,Dayton,68,32,2024
+1,Houston,100,9,Texas A&M,95,32,2024
+4,Duke,93,12,James Madison,55,32,2024
+11,NC State,79,14,Oakland,73,32,2024
+2,Marquette,81,10,Colorado,77,32,2024
+1,Purdue,106,8,Utah State,67,32,2024
+5,Gonzaga,89,4,Kansas,68,32,2024
+3,Creighton,86,11,Oregon,73,32,2024
+2,Tennessee,62,7,Texas,58,32,2024
+1,UConn,82,5,San Diego State,52,16,2024
+3,Illinois,72,2,Iowa State,69,16,2024
+4,Alabama,89,1,North Carolina,87,16,2024
+6,Clemson,77,2,Arizona,72,16,2024
+4,Duke,54,1,Houston,51,16,2024
+11,NC State,67,2,Marquette,58,16,2024
+1,Purdue,80,5,Gonzaga,68,16,2024
+2,Tennessee,82,3,Creighton,75,16,2024
+1,UConn,77,3,Illinois,52,8,2024
+4,Alabama,89,6,Clemson,82,8,2024
+11,NC State,76,4,Duke,64,8,2024
+1,Purdue,72,2,Tennessee,66,8,2024
+1,UConn,86,4,Alabama,72,4,2024
+1,Purdue,63,11,NC State,50,4,2024
+1,UConn,75,1,Purdue,60,2,2024
