@@ -1,7 +1,7 @@
 # check data integrity / internal consistency
 
-games <- read.csv('womensResults.csv')
-# games <- read.csv('mensResults.csv')
+# games <- read.csv('womensResults.csv')
+games <- read.csv('mensResults.csv')
 
 # if this runs with no errors, then the data probably doesn't contain any errors of the specific types for which we checked
 for(year in unique(games$year)){

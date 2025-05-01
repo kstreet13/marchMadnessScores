@@ -1,8 +1,17 @@
 require(rvest)
+require(xml2)
 
-# expanded to 64 teams in 1994
-links <- paste0('https://en.wikipedia.org/wiki/',1994:2025,'_NCAA_Division_I_women%27s_basketball_tournament')
-names(links) <- 1994:2025
+womens <- TRUE
+
+if(womens){
+    # expanded to 64 teams in 1994
+    links <- paste0('https://en.wikipedia.org/wiki/',1994:2025,'_NCAA_Division_I_women%27s_basketball_tournament')
+    names(links) <- 1994:2025
+}else{
+    # expanded to 64 teams in 1985
+    links <- paste0('https://en.wikipedia.org/wiki/',1985:2025,'_NCAA_Division_I_men%27s_basketball_tournament')
+    names(links) <- 1985:2025
+}
 links <- links[names(links)!='2020']
 
 # helper functions
@@ -10,7 +19,6 @@ cleanTab <- function(tab){
     tab <- as.matrix(tab)
     tab[is.na(tab)] <- ""
     tab <- gsub('[*]','', tab) # * can denote OT
-    tab <- gsub('[†]','', tab) # † used for notes on hosting
     drop <- NULL
     for(ci in 1:ncol(tab)){
         if(all(tab[,ci] == "")){
@@ -52,8 +60,9 @@ findGames <- function(mat){
     index <- NULL
     for(ci in 1:(ncol(mat)-2)){
         for(ri in 1:(nrow(mat)-3)){
-            if(all(grepl('^[0-9][0-9]?$', mat[ri:(ri+3), ci]))){
-                if(all(grepl('^[0-9][0-9]?[0-9]?$', mat[ri:(ri+3), ci+2]))){
+            if(all(grepl('^[0-9][0-9]?a?b?$', mat[ri:(ri+3), ci]))){ # seeds
+                if(all(grepl('^[0-9][0-9]?[0-9]?$', mat[ri:(ri+3), ci+2])) | # scores
+                   all(mat[ri:(ri+3), ci+2] == c('WO','WO','',''))){ # Ore/VCU
                     if(all(mat[ri, ci:(ci+2)] == mat[ri+1, ci:(ci+2)]) &
                        all(mat[ri+2, ci:(ci+2)] == mat[ri+3, ci:(ci+2)])){
                         index <- rbind(index, c(ri, ci))
@@ -73,14 +82,28 @@ processGame <- function(gameMat){
     if(length(ats) > 0){
         gameMat[ats] <- gsub('^at ','', gameMat[ats])
     }
-    winner <- which.max(gameMat[,3])
+    gameMat <- gsub(' ?[†]$','', gameMat) # † used for notes on hosting
+    gameMat <- gsub(' ?[#]$','', gameMat) # "#" used for notes on vacated games
+    gameMat <- gsub(' ?[[].*[]]$','', gameMat) # wikipedia-style footnotes
+    gameMat[,1] <- gsub('a?b?$','', gameMat[,1]) # play-in games sometimes have seeds like 16a/16b
+    
+    if(all(gameMat[,3] == c('WO',''))){
+        gameMat[,3] <- c('0','0')
+        winner <- 1
+    }else{
+        winner <- which.max(gameMat[,3])
+    }
     return(unname(c(gameMat[winner,], gameMat[3-winner,])))
 }
 
 processFirst4 <- function(tab){
     tab <- cleanTab(tab)
     tab <- tab[-1,]
-    index <- findGames(tab)
+    if(nrow(tab) >= 4 & ncol(tab) >= 3){
+        index <- findGames(tab)
+    }else{
+        return(NULL)
+    }
     if(length(index) == 2){
         game <- processGame(tab[index[1]:(index[1]+3), index[2]:(index[2]+2)])
         return(c(game, 0)) # add round
@@ -145,6 +168,9 @@ games <- lapply(seq_along(links), function(i){
     dims <- sapply(tabs, dim)
     first4tabs <- tabs[dims[1,] == 6 & dims[2,] == 5]
     regiontabs <- tabs[dims[1,] == 48 & dims[2,] == 20]
+    if(names(links)[i] == '2021' & !womens){ # the things I do for Oregon/VCU
+        regiontabs <- tabs[dims[1,] == 52 & dims[2,] == 19] # different sizes this year
+    }
     final4tab <- tabs[dims[1,] == 12 & dims[2,] == 10]
     
     games <- rbind(
@@ -169,11 +195,17 @@ games <- lapply(seq_along(links), function(i){
     }
     games$year <- as.numeric(names(links)[i])
     
-    # checks
+    # check team names
     for(col in c('team1','team2')){
         games[games[,col] == 'Mississippi St.',col] <- 'Mississippi State'
         games[games[,col] == 'Penn St.',col] <- 'Penn State'
         games[games[,col] == 'Miami',col] <- 'Miami (FL)'
+        games[games[,col] %in% c("St John's", "St Johns"),col] <- "St. John's"
+        games[games[,col] == 'Memphis St.',col] <- 'Memphis State'
+        games[games[,col] == 'Loyola–Chicago',col] <- 'Loyola Chicago'
+        games[games[,col] == 'North Carolina State',col] <- 'NC State'
+        games[games[,col] == 'Washington St.',col] <- 'Washington State'
+        games[games[,col] == 'UNC-Asheville',col] <- 'UNC Asheville'
     }
     
     return(games)
@@ -183,4 +215,8 @@ games <- do.call(rbind, games)
 
 
 # save results
-write.csv(games, file = 'womensResults.csv', row.names = FALSE, quote=FALSE)
+if(womens){
+    write.csv(games, file = 'womensResults.csv', row.names = FALSE, quote=FALSE)
+}else{
+    write.csv(games, file = 'mensResults.csv', row.names = FALSE, quote=FALSE)
+}
